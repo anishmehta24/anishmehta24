@@ -43,7 +43,7 @@
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=anishmehta24&theme=dark&layout=compact" alt="anishmehta24" />
  
    </div>
-    <img align="left" height="180" src="https://private-user-images.githubusercontent.com/74038190/371756374-0bf134e2-c0ba-488b-bbd4-9300f2f77871.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzI2NTY5MzksIm5iZiI6MTczMjY1NjYzOSwicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzQtMGJmMTM0ZTItYzBiYS00ODhiLWJiZDQtOTMwMGYyZjc3ODcxLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTI2VDIxMzAzOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNmYjg0NTdlN2VlM2I4ZWMwZjJhMTM2NDUwNjRkYTIwMzdlODgxZWE0YjE3OTBjNTAzMzU1N2Y3MTE4YjJkMjcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.-2qshjig3MYB3WeQ1LRcCOsh5MPRFTezwLvsZ-2u91s"  />
+    <img align="left" height="180" src="https://user-images.githubusercontent.com/74038190/216655859-f66df97b-6767-4ab2-b6f4-a9cba3ff3591.gif"  />
     <img align="right" height="150" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png"  />
    <p align="center"><img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=anishmehta24&show_icons=true&theme=dark&layout=compact" alt="anishmehta24" /></p>
    
