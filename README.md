@@ -43,7 +43,7 @@
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=anishmehta24&theme=dark&layout=compact" alt="anishmehta24" />
  
    </div>
-    <img align="left" height="180" src="https://user-images.githubusercontent.com/74038190/216655859-f66df97b-6767-4ab2-b6f4-a9cba3ff3591.gif"  />
+    <img align="left" height="150" src="https://user-images.githubusercontent.com/74038190/216655859-f66df97b-6767-4ab2-b6f4-a9cba3ff3591.gif"  />
     <img align="right" height="150" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png"  />
    <p align="center"><img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=anishmehta24&show_icons=true&theme=dark&layout=compact" alt="anishmehta24" /></p>
    
