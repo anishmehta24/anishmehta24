@@ -11,9 +11,9 @@
 
 - 🎓 Pursuing B.Tech in Computer Science at **BIT, Mesra (Ranchi, India).**
   
-- 💻 Full-stack Developer: Skilled in **MERN, Next.js**
+- 💻 Full-stack Developer: Skilled in **MERN, Next.js **
 
-- 🌱 I’m currently learning **Advanced Next.js and ML**
+- 🌱 I’m currently learning **App dev and ML**
 
 
 - 💬 Ask me about **React,Express.js and Next.js**
