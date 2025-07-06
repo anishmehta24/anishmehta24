@@ -1,9 +1,11 @@
 <h1 align="center">
-  Hi 👋, I'm Anish Mehta  <img align="left" height="30" src="https://camo.githubusercontent.com/bbc70b6515e817d1943dadf19ca39d94cb2154df20bb1b65f942e418810d2049/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313538383331353032342f383832332f68797065726b697474792e6769663f31353838333135303234"  /> 
+  Hi 👋, I'm Anish Mehta  <img align="left" height="30" 
 </h1>
  <h3 align="center">A passionate Software Developer from India</h3>
 
-<img align="right" height="220" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif"  />
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=anishmehta24&label=Visitors&color=45463e&style=plastic" alt="anishmehta24" /> </p>
+
+
 
 
 
@@ -24,7 +26,6 @@
 
 <hr>
 
-<img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif"  />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anish-mehta-81080029b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anish-mehta-81080029b" height="30" width="40" /></a>
@@ -42,7 +43,6 @@
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=anishmehta24&theme=dark&layout=compact" alt="anishmehta24" />
  
    </div>
-    <img align="left" height="150" src="https://user-images.githubusercontent.com/74038190/216655859-f66df97b-6767-4ab2-b6f4-a9cba3ff3591.gif"  />
-    <img align="right" height="150" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png"  />
+    
    <p align="center"><img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=anishmehta24&show_icons=true&theme=dark&layout=compact" alt="anishmehta24" /></p>
    
