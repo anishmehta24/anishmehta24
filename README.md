@@ -2,7 +2,6 @@
   Hi 👋, I'm Anish Mehta  <img align="left" height="30" src="https://camo.githubusercontent.com/bbc70b6515e817d1943dadf19ca39d94cb2154df20bb1b65f942e418810d2049/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313538383331353032342f383832332f68797065726b697474792e6769663f31353838333135303234"  /> 
 </h1>
  <h3 align="center">A passionate Software Developer from India</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=anishmehta24&label=Visitors&color=45463e&style=plastic" alt="anishmehta24" /> </p>
 
 <img align="right" height="220" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif"  />
 
