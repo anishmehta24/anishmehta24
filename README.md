@@ -39,8 +39,8 @@
 <hr>
 <h3 align="left">My Stats : </h3>
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <img height="150" src="https://leetcard.jacoblin.cool/anishmehta_24?theme=dark&font=Lato&ext=heatmap" alt="anishmehta24" />
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=anishmehta24&show_icons=true&locale=en&layout=compact&theme=dark" alt="anishmehta24" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=anishmehta24&theme=dark&layout=compact" alt="anishmehta24" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=anishmehta24&show_icons=true&theme=dark&layout=compact" alt="anishmehta24" />
 </div>
 
