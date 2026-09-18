@@ -26,8 +26,7 @@
 
 - 🏗️ **Backend at [Clootrack](https://www.clootrack.com/)** (Feb 2026 – present) — Python and Go services for *Clootrack Neo*, a no-code analytics platform: regional Azure Blob caching to cut cross-region latency, a Spark → Polars ingestion pipeline for higher throughput, event-driven cleanup workflows on Dapr pub/sub + Celery, and a Django → Go migration of core services.
 - 🔍 **Open source** — I find bugs by differential testing and fuzzing (PyTorch frontends, data pipelines, LLM agent runtimes), then fix them with regression tests. Root cause over symptom, always.
-- 🎓 **B.Tech CSE, BIT Mesra** (2023 – 2027), CGPA 8.68 · two-time GP Birla Scholar.
-- 🏆 Winner of **Hatch from Scratch 2024** (AR navigation) and **HackAbit 2024**.
+- 🎓 **B.Tech CSE, BIT Mesra** (2023 – 2027), CGPA 8.68 · two-time GP Birla Scholar · won several hackathons.
 
 <br/>
 
