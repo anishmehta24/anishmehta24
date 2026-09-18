@@ -75,15 +75,9 @@ Contributed fixes to [microsoft/agent-framework](https://github.com/microsoft/ag
 ## 📊 Stats
 
 <div align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anishmehta24&theme=tokyonight" alt="GitHub stats" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anishmehta24&theme=tokyonight" alt="Most used languages" />
-</div>
-<div align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=anishmehta24&theme=tokyonight&hide_border=true" alt="Streak" />
-  <img height="170" src="https://leetcard.jacoblin.cool/anishmehta_24?theme=dark&font=Fira+Code&ext=heatmap&border=0" alt="LeetCode" />
-</div>
-<div align="center">
-  <img src="https://ghchart.rshah.org/1d4ed8/anishmehta24" alt="Contribution graph" width="90%" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anishmehta24&theme=tokyonight" alt="GitHub stats" />
+  &nbsp;&nbsp;
+  <img height="180" src="https://leetcard.jacoblin.cool/anishmehta_24?theme=dark&font=Fira+Code&border=0" alt="LeetCode" />
 </div>
 
 <br/>
