@@ -78,19 +78,22 @@ Contributed fixes to [microsoft/agent-framework](https://github.com/microsoft/ag
 
 ## 📊 Stats
 
-<table align="center">
-  <tr>
-    <td align="center"><img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anishmehta24&theme=tokyonight" alt="GitHub stats" /></td>
-    <td align="center"><img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anishmehta24&theme=tokyonight" alt="Most used languages" /></td>
-  </tr>
-  <tr>
-    <td align="center"><img height="180" src="https://streak-stats.demolab.com?user=anishmehta24&theme=tokyonight&hide_border=true" alt="Streak" /></td>
-    <td align="center"><img height="180" src="https://leetcard.jacoblin.cool/anishmehta_24?theme=dark&font=Fira+Code&border=0" alt="LeetCode" /></td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center"><img src="https://ghchart.rshah.org/1d4ed8/anishmehta24" alt="Contribution graph" width="100%" /></td>
-  </tr>
-</table>
+<div align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anishmehta24&theme=tokyonight" alt="GitHub stats" />
+  <img height="180" src="https://streak-stats.demolab.com?user=anishmehta24&theme=tokyonight&hide_border=true" alt="Streak" />
+</div>
+<div align="center">
+  <img height="180" src="https://leetcard.jacoblin.cool/anishmehta_24?theme=dark&font=Fira+Code&ext=heatmap&border=0" alt="LeetCode" />
+</div>
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anishmehta24/anishmehta24/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/anishmehta24/anishmehta24/output/github-snake.svg" alt="Contribution snake" width="100%" />
+  </picture>
+</div>
 
 <br/>
 
