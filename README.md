@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=640&lines=I+like+finding+the+bug+nobody+else+noticed;Python+%C2%B7+Go+%C2%B7+TypeScript+%C2%B7+C%2B%2B;PRs+in+Apache+Beam%2C+Intel+OpenVINO%2C+microsoft%2Fagent-framework;Codeforces+Specialist+%C2%B7+LeetCode+Knight" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=640&lines=I+like+finding+the+bug+nobody+else+noticed;Python+%C2%B7+Go+%C2%B7+TypeScript+%C2%B7+C%2B%2B;Codeforces+Specialist+%C2%B7+LeetCode+Knight" alt="typing" />
 </p>
 
 <p align="center">
