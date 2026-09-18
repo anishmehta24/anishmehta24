@@ -30,13 +30,15 @@
 
 <br/>
 
-## 🛠️ Open source
+## 💼 My work
+
+### Open source
 
 Contributed fixes to [microsoft/agent-framework](https://github.com/microsoft/agent-framework/pulls?q=is%3Apr+author%3Aanishmehta24), [Apache Beam](https://github.com/apache/beam/pulls?q=is%3Apr+author%3Aanishmehta24), [Intel OpenVINO](https://github.com/openvinotoolkit/openvino/pulls?q=is%3Apr+author%3Aanishmehta24), [microsoft/onnxscript](https://github.com/microsoft/onnxscript/pulls?q=is%3Apr+author%3Aanishmehta24), [NVIDIA NeMo Agent Toolkit](https://github.com/NVIDIA/NeMo-Agent-Toolkit/pulls?q=is%3Apr+author%3Aanishmehta24), [Haystack](https://github.com/deepset-ai/haystack/pulls?q=is%3Apr+author%3Aanishmehta24), [Agno](https://github.com/agno-agi/agno/pulls?q=is%3Apr+author%3Aanishmehta24), [Arize Phoenix](https://github.com/Arize-ai/phoenix/pulls?q=is%3Apr+author%3Aanishmehta24), [Opik](https://github.com/comet-ml/opik/pulls?q=is%3Apr+author%3Aanishmehta24) and [Strands Agents](https://github.com/strands-agents/harness-sdk/pulls?q=is%3Apr+author%3Aanishmehta24).
 
 <br/>
 
-## 🚀 Things I've built
+### Personal projects
 
 <table>
   <tr>
@@ -63,6 +65,8 @@ Contributed fixes to [microsoft/agent-framework](https://github.com/microsoft/ag
 
 <br/>
 
+<br/>
+
 ## 🧰 Toolbox
 
 <p align="center">
@@ -74,11 +78,19 @@ Contributed fixes to [microsoft/agent-framework](https://github.com/microsoft/ag
 
 ## 📊 Stats
 
-<div align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anishmehta24&theme=tokyonight" alt="GitHub stats" />
-  &nbsp;&nbsp;
-  <img height="180" src="https://leetcard.jacoblin.cool/anishmehta_24?theme=dark&font=Fira+Code&border=0" alt="LeetCode" />
-</div>
+<table align="center">
+  <tr>
+    <td align="center"><img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anishmehta24&theme=tokyonight" alt="GitHub stats" /></td>
+    <td align="center"><img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anishmehta24&theme=tokyonight" alt="Most used languages" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img height="180" src="https://streak-stats.demolab.com?user=anishmehta24&theme=tokyonight&hide_border=true" alt="Streak" /></td>
+    <td align="center"><img height="180" src="https://leetcard.jacoblin.cool/anishmehta_24?theme=dark&font=Fira+Code&border=0" alt="LeetCode" /></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><img src="https://ghchart.rshah.org/1d4ed8/anishmehta24" alt="Contribution graph" width="100%" /></td>
+  </tr>
+</table>
 
 <br/>
 
