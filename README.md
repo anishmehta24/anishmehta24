@@ -56,12 +56,22 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/anishmehta24/verse"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anishmehta24&repo=verse&theme=tokyonight&hide_border=true" alt="Verse" width="100%" /></a>
-      <p><b>Verse</b> — real-time collaborative workspace: docs, code, whiteboard and audio/video in one place. Yjs CRDTs over WebSockets for conflict-free editing, WebRTC calls with Socket.IO signalling. TypeScript · React · Node.js · PostgreSQL. <a href="https://collab-docs-web.onrender.com/">Live ↗</a></p>
+      <h3><a href="https://github.com/anishmehta24/verse">Verse</a></h3>
+      <p>
+        <img src="https://img.shields.io/github/stars/anishmehta24/verse?style=flat-square&logo=github&label=stars" alt="stars" />
+        <img src="https://img.shields.io/github/languages/top/anishmehta24/verse?style=flat-square" alt="language" />
+        <img src="https://img.shields.io/github/last-commit/anishmehta24/verse?style=flat-square" alt="last commit" />
+      </p>
+      <p>Real-time collaborative workspace: docs, code, whiteboard and audio/video in one place. Yjs CRDTs over WebSockets for conflict-free editing, WebRTC calls with Socket.IO signalling. TypeScript · React · Node.js · PostgreSQL. <a href="https://collab-docs-web.onrender.com/">Live ↗</a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/anishmehta24/OSS-Contributor-engine"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anishmehta24&repo=OSS-Contributor-engine&theme=tokyonight&hide_border=true" alt="OSS Contributor Engine" width="100%" /></a>
-      <p><b>OSS Contributor Engine</b> — multi-agent platform that profiles your GitHub history, hunts matching open-source issues and drafts pitches. Five specialist agents, pgvector ranking, a fault-tolerant multi-LLM router. FastAPI · Next.js · PostgreSQL · Docker. <a href="https://oss-contributor-engine.vercel.app">Live ↗</a></p>
+      <h3><a href="https://github.com/anishmehta24/OSS-Contributor-engine">OSS Contributor Engine</a></h3>
+      <p>
+        <img src="https://img.shields.io/github/stars/anishmehta24/OSS-Contributor-engine?style=flat-square&logo=github&label=stars" alt="stars" />
+        <img src="https://img.shields.io/github/languages/top/anishmehta24/OSS-Contributor-engine?style=flat-square" alt="language" />
+        <img src="https://img.shields.io/github/last-commit/anishmehta24/OSS-Contributor-engine?style=flat-square" alt="last commit" />
+      </p>
+      <p>Multi-agent platform that profiles your GitHub history, hunts matching open-source issues and drafts pitches. Five specialist agents, pgvector ranking, a fault-tolerant multi-LLM router. FastAPI · Next.js · PostgreSQL · Docker. <a href="https://oss-contributor-engine.vercel.app">Live ↗</a></p>
     </td>
   </tr>
 </table>
@@ -80,11 +90,15 @@
 ## 📊 Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=anishmehta24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishmehta24&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anishmehta24&theme=tokyonight" alt="GitHub stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anishmehta24&theme=tokyonight" alt="Most used languages" />
 </div>
 <div align="center">
-  <img height="165" src="https://leetcard.jacoblin.cool/anishmehta_24?theme=dark&font=Fira+Code&ext=heatmap&border=0" alt="LeetCode" />
+  <img height="170" src="https://streak-stats.demolab.com?user=anishmehta24&theme=tokyonight&hide_border=true" alt="Streak" />
+  <img height="170" src="https://leetcard.jacoblin.cool/anishmehta_24?theme=dark&font=Fira+Code&ext=heatmap&border=0" alt="LeetCode" />
+</div>
+<div align="center">
+  <img src="https://ghchart.rshah.org/1d4ed8/anishmehta24" alt="Contribution graph" width="90%" />
 </div>
 
 <br/>
