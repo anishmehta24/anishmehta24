@@ -32,21 +32,7 @@
 
 ## 🛠️ Open source
 
-<p align="center">
-  <a href="https://github.com/microsoft/agent-framework/pulls?q=is%3Apr+author%3Aanishmehta24"><img src="https://img.shields.io/badge/microsoft%2Fagent--framework-2%20merged%20%C2%B7%201%20open-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="agent-framework" /></a>
-  <a href="https://github.com/apache/beam/pull/40165"><img src="https://img.shields.io/badge/apache%2Fbeam-Python%20SDK%20metrics-d22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache Beam" /></a>
-  <a href="https://github.com/openvinotoolkit/openvino/pulls?q=is%3Apr+author%3Aanishmehta24"><img src="https://img.shields.io/badge/intel%2Fopenvino-3%20PyTorch%20frontend%20fixes-0071c5?style=for-the-badge&logo=intel&logoColor=white" alt="OpenVINO" /></a>
-  <a href="https://github.com/microsoft/onnxscript/pull/3053"><img src="https://img.shields.io/badge/microsoft%2Fonnxscript-sort%20%2F%20argsort%20export-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="onnxscript" /></a>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/NVIDIA%20NeMo-76b900?style=flat-square&logo=nvidia&logoColor=white" alt="NeMo" />
-  <img src="https://img.shields.io/badge/Haystack-1c7ed6?style=flat-square" alt="Haystack" />
-  <img src="https://img.shields.io/badge/Agno-ff6b35?style=flat-square" alt="Agno" />
-  <img src="https://img.shields.io/badge/Arize%20Phoenix-7c3aed?style=flat-square" alt="Phoenix" />
-  <img src="https://img.shields.io/badge/Opik-ef4444?style=flat-square" alt="Opik" />
-  <img src="https://img.shields.io/badge/Strands%20Agents-232f3e?style=flat-square" alt="Strands" />
-  <br/><sub>bug fixes with regression tests, each paired with a self-filed issue</sub>
-</p>
+Contributed fixes to [microsoft/agent-framework](https://github.com/microsoft/agent-framework/pulls?q=is%3Apr+author%3Aanishmehta24), [Apache Beam](https://github.com/apache/beam/pulls?q=is%3Apr+author%3Aanishmehta24), [Intel OpenVINO](https://github.com/openvinotoolkit/openvino/pulls?q=is%3Apr+author%3Aanishmehta24), [microsoft/onnxscript](https://github.com/microsoft/onnxscript/pulls?q=is%3Apr+author%3Aanishmehta24), [NVIDIA NeMo Agent Toolkit](https://github.com/NVIDIA/NeMo-Agent-Toolkit/pulls?q=is%3Apr+author%3Aanishmehta24), [Haystack](https://github.com/deepset-ai/haystack/pulls?q=is%3Apr+author%3Aanishmehta24), [Agno](https://github.com/agno-agi/agno/pulls?q=is%3Apr+author%3Aanishmehta24), [Arize Phoenix](https://github.com/Arize-ai/phoenix/pulls?q=is%3Apr+author%3Aanishmehta24), [Opik](https://github.com/comet-ml/opik/pulls?q=is%3Apr+author%3Aanishmehta24) and [Strands Agents](https://github.com/strands-agents/harness-sdk/pulls?q=is%3Apr+author%3Aanishmehta24).
 
 <br/>
 
