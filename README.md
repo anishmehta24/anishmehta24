@@ -83,17 +83,26 @@ Contributed fixes to [microsoft/agent-framework](https://github.com/microsoft/ag
   <img height="180" src="https://streak-stats.demolab.com?user=anishmehta24&theme=tokyonight&hide_border=true" alt="Streak" />
 </div>
 <div align="center">
-  <img height="180" src="https://leetcard.jacoblin.cool/anishmehta_24?theme=dark&font=Fira+Code&ext=heatmap&border=0" alt="LeetCode" />
+  <img height="180" src="https://leetcard.jacoblin.cool/anishmehta_24?theme=dark&font=Fira+Code&border=0" alt="LeetCode" />
+  <img height="180" src="https://codeforces-readme-stats.vercel.app/api/card?username=Anish_2407&theme=tokyonight" alt="Codeforces" />
 </div>
 
-<br/>
+<details>
+  <summary>🔭 Latest pull requests (auto-updated daily)</summary>
+  <br/>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anishmehta24/anishmehta24/output/github-contribution-grid-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/anishmehta24/anishmehta24/output/github-snake.svg" alt="Contribution snake" width="100%" />
-  </picture>
-</div>
+<!-- PRS:START -->
+| Repository | Pull request | Status |
+|---|---|---|
+| [microsoft/onnxscript](https://github.com/microsoft/onnxscript) | [[torchlib] Register aten::sort.stable and implement aten::argsort](https://github.com/microsoft/onnxscript/pull/3053) | `open` |
+| [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) | [[PT FE] Compute signed integer floor division explicitly](https://github.com/openvinotoolkit/openvino/pull/38260) | `open` |
+| [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) | [[PT FE] Normalize a negative start in aten::narrow before computing the stop](https://github.com/openvinotoolkit/openvino/pull/38259) | `open` |
+| [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) | [[PT FE] Default omitted slice bounds by the sign of step](https://github.com/openvinotoolkit/openvino/pull/38242) | `open` |
+| [apache/beam](https://github.com/apache/beam) | [[Python] Honor disableCounterMetrics, disableStringSetMetrics and disableBoundedTrieMetrics experiments](https://github.com/apache/beam/pull/40165) | `open` |
+| [microsoft/agent-framework](https://github.com/microsoft/agent-framework) | [Python: mark hosted /responses incomplete on content_filter and length finish reasons](https://github.com/microsoft/agent-framework/pull/8478) | `open` |
+<!-- PRS:END -->
+
+</details>
 
 <br/>
 
