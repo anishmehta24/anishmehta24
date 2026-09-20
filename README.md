@@ -94,12 +94,12 @@ Contributed fixes to [microsoft/agent-framework](https://github.com/microsoft/ag
 <!-- PRS:START -->
 | Repository | Pull request | Status |
 |---|---|---|
-| [microsoft/onnxscript](https://github.com/microsoft/onnxscript) | [[torchlib] Register aten::sort.stable and implement aten::argsort](https://github.com/microsoft/onnxscript/pull/3053) | `open` |
-| [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) | [[PT FE] Compute signed integer floor division explicitly](https://github.com/openvinotoolkit/openvino/pull/38260) | `open` |
-| [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) | [[PT FE] Normalize a negative start in aten::narrow before computing the stop](https://github.com/openvinotoolkit/openvino/pull/38259) | `open` |
-| [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) | [[PT FE] Default omitted slice bounds by the sign of step](https://github.com/openvinotoolkit/openvino/pull/38242) | `open` |
-| [apache/beam](https://github.com/apache/beam) | [[Python] Honor disableCounterMetrics, disableStringSetMetrics and disableBoundedTrieMetrics experiments](https://github.com/apache/beam/pull/40165) | `open` |
-| [microsoft/agent-framework](https://github.com/microsoft/agent-framework) | [Python: mark hosted /responses incomplete on content_filter and length finish reasons](https://github.com/microsoft/agent-framework/pull/8478) | `open` |
+| [zulip/zulip](https://github.com/zulip/zulip) | [setup_venv: Install gcc-c++ and libicu-devel on Fedora/RHEL.](https://github.com/zulip/zulip/pull/40173) | `open` |
+| [apache/iotdb](https://github.com/apache/iotdb) | [Fix replace-conf-from-env.sh word-splitting env values into junk config lines](https://github.com/apache/iotdb/pull/18680) | `open` |
+| [apache/datafusion](https://github.com/apache/datafusion) | [fix: honor the volatility of aggregate, window and higher-order functions in `Expr::is_volatile`](https://github.com/apache/datafusion/pull/25513) | `open` |
+| [vitessio/vitess](https://github.com/vitessio/vitess) | [vttls: Refuse a server-side CRL when the server is not configured for TLS](https://github.com/vitessio/vitess/pull/21153) | `open` |
+| [kubeflow/trainer](https://github.com/kubeflow/trainer) | [fix(framework): inject distributed envs when TrainJob spec.trainer is omitted](https://github.com/kubeflow/trainer/pull/4082) | `open` |
+| [pvlib/pvlib-python](https://github.com/pvlib/pvlib-python) | [Rename zenith to solar_zenith in the decomposition models](https://github.com/pvlib/pvlib-python/pull/2858) | `closed` |
 <!-- PRS:END -->
 
 </details>
