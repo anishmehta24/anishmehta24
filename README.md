@@ -94,12 +94,12 @@ Contributed fixes to [microsoft/agent-framework](https://github.com/microsoft/ag
 <!-- PRS:START -->
 | Repository | Pull request | Status |
 |---|---|---|
-| [zulip/zulip](https://github.com/zulip/zulip) | [setup_venv: Install gcc-c++ and libicu-devel on Fedora/RHEL.](https://github.com/zulip/zulip/pull/40173) | `open` |
-| [apache/iotdb](https://github.com/apache/iotdb) | [Fix replace-conf-from-env.sh word-splitting env values into junk config lines](https://github.com/apache/iotdb/pull/18680) | `open` |
-| [apache/datafusion](https://github.com/apache/datafusion) | [fix: honor the volatility of aggregate, window and higher-order functions in `Expr::is_volatile`](https://github.com/apache/datafusion/pull/25513) | `open` |
-| [vitessio/vitess](https://github.com/vitessio/vitess) | [vttls: Refuse a server-side CRL when the server is not configured for TLS](https://github.com/vitessio/vitess/pull/21153) | `open` |
-| [kubeflow/trainer](https://github.com/kubeflow/trainer) | [fix(framework): inject distributed envs when TrainJob spec.trainer is omitted](https://github.com/kubeflow/trainer/pull/4082) | `open` |
-| [pvlib/pvlib-python](https://github.com/pvlib/pvlib-python) | [Rename zenith to solar_zenith in the decomposition models](https://github.com/pvlib/pvlib-python/pull/2858) | `closed` |
+| [NVIDIA/NeMo-Agent-Toolkit](https://github.com/NVIDIA/NeMo-Agent-Toolkit) | [fix(core): return NotImplemented from HashableBaseModel comparisons with other types](https://github.com/NVIDIA/NeMo-Agent-Toolkit/pull/2244) | `open` |
+| [apache/jena](https://github.com/apache/jena) | [GH-4236, GH-4237: Compare durations by value, not by written fields](https://github.com/apache/jena/pull/4247) | `open` |
+| [NVIDIA/NeMo-Agent-Toolkit](https://github.com/NVIDIA/NeMo-Agent-Toolkit) | [fix(core): do not expand ${VAR} references a second time inside env values](https://github.com/NVIDIA/NeMo-Agent-Toolkit/pull/2242) | `open` |
+| [joomla/joomla-cms](https://github.com/joomla/joomla-cms) | [[6.1] Schema.org: give WebPage and BreadcrumbList a per-page @id](https://github.com/joomla/joomla-cms/pull/48487) | `open` |
+| [astropy/astropy](https://github.com/astropy/astropy) | [Write distortion keywords with the WCS key suffix in to_fits()](https://github.com/astropy/astropy/pull/20446) | `open` |
+| [apache/iceberg](https://github.com/apache/iceberg) | [Docs: Fix catalog properties link in terms.md](https://github.com/apache/iceberg/pull/18192) | `merged` |
 <!-- PRS:END -->
 
 </details>
