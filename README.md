@@ -94,12 +94,12 @@ Contributed fixes to [microsoft/agent-framework](https://github.com/microsoft/ag
 <!-- PRS:START -->
 | Repository | Pull request | Status |
 |---|---|---|
+| [comet-ml/opik](https://github.com/comet-ml/opik) | [[NA] [SDK] fix: flatten whitespace before fastText language detection](https://github.com/comet-ml/opik/pull/8493) | `open` |
+| [generalaction/emdash](https://github.com/generalaction/emdash) | [fix(path): keep POSIX segments separated by "/" in formatAbsolute](https://github.com/generalaction/emdash/pull/3257) | `open` |
+| [comet-ml/opik](https://github.com/comet-ml/opik) | [[NA] [SDK] fix: fetch the vader_lexicon corpus instead of raising LookupError](https://github.com/comet-ml/opik/pull/8489) | `open` |
+| [comet-ml/opik](https://github.com/comet-ml/opik) | [[NA] [SDK] fix: validate BLEU n_grams and empty sequences](https://github.com/comet-ml/opik/pull/8486) | `open` |
+| [comet-ml/opik](https://github.com/comet-ml/opik) | [[NA] [SDK] fix: tokenize METEOR input before calling NLTK](https://github.com/comet-ml/opik/pull/8476) | `open` |
 | [NVIDIA/NeMo-Agent-Toolkit](https://github.com/NVIDIA/NeMo-Agent-Toolkit) | [fix(core): report the full field path in config validation errors](https://github.com/NVIDIA/NeMo-Agent-Toolkit/pull/2249) | `open` |
-| [comet-ml/opik](https://github.com/comet-ml/opik) | [[NA] [SDK] fix: score NaN and Infinity literals as invalid JSON in IsJson](https://github.com/comet-ml/opik/pull/8456) | `open` |
-| [microsoft/agent-framework](https://github.com/microsoft/agent-framework) | [Python: fix(core): give each file memory its own description sidecar](https://github.com/microsoft/agent-framework/pull/8621) | `open` |
-| [NVIDIA/NeMo-Agent-Toolkit](https://github.com/NVIDIA/NeMo-Agent-Toolkit) | [fix(core): return NotImplemented from HashableBaseModel comparisons with other types](https://github.com/NVIDIA/NeMo-Agent-Toolkit/pull/2244) | `open` |
-| [apache/jena](https://github.com/apache/jena) | [GH-4236, GH-4237: Compare durations by value, not by written fields](https://github.com/apache/jena/pull/4247) | `open` |
-| [NVIDIA/NeMo-Agent-Toolkit](https://github.com/NVIDIA/NeMo-Agent-Toolkit) | [fix(core): do not expand ${VAR} references a second time inside env values](https://github.com/NVIDIA/NeMo-Agent-Toolkit/pull/2242) | `merged` |
 <!-- PRS:END -->
 
 </details>
