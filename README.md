@@ -94,12 +94,12 @@ Contributed fixes to [microsoft/agent-framework](https://github.com/microsoft/ag
 <!-- PRS:START -->
 | Repository | Pull request | Status |
 |---|---|---|
-| [comet-ml/opik](https://github.com/comet-ml/opik) | [[NA] [SDK] fix: flatten whitespace before fastText language detection](https://github.com/comet-ml/opik/pull/8493) | `open` |
-| [generalaction/emdash](https://github.com/generalaction/emdash) | [fix(path): keep POSIX segments separated by "/" in formatAbsolute](https://github.com/generalaction/emdash/pull/3257) | `open` |
-| [comet-ml/opik](https://github.com/comet-ml/opik) | [[NA] [SDK] fix: fetch the vader_lexicon corpus instead of raising LookupError](https://github.com/comet-ml/opik/pull/8489) | `open` |
-| [comet-ml/opik](https://github.com/comet-ml/opik) | [[NA] [SDK] fix: validate BLEU n_grams and empty sequences](https://github.com/comet-ml/opik/pull/8486) | `open` |
-| [comet-ml/opik](https://github.com/comet-ml/opik) | [[NA] [SDK] fix: tokenize METEOR input before calling NLTK](https://github.com/comet-ml/opik/pull/8476) | `open` |
-| [NVIDIA/NeMo-Agent-Toolkit](https://github.com/NVIDIA/NeMo-Agent-Toolkit) | [fix(core): report the full field path in config validation errors](https://github.com/NVIDIA/NeMo-Agent-Toolkit/pull/2249) | `open` |
+| [pymc-devs/pytensor](https://github.com/pymc-devs/pytensor) | [Don't warn about read-only constants in the PyTorch backend](https://github.com/pymc-devs/pytensor/pull/2433) | `open` |
+| [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python) | [fix: accept must_understand=false extra fields in v3 group metadata](https://github.com/zarr-developers/zarr-python/pull/4391) | `open` |
+| [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) | [fix(storage): Apply timeout to gRPC storage calls](https://github.com/jaegertracing/jaeger/pull/9638) | `open` |
+| [goharbor/harbor](https://github.com/goharbor/harbor) | [fix(jobservice): unschedule only the policy, not every policy with its score](https://github.com/goharbor/harbor/pull/23995) | `open` |
+| [kyverno/kyverno](https://github.com/kyverno/kyverno) | [fix(cli): only read the listed CRD files for the OpenAPI schema](https://github.com/kyverno/kyverno/pull/17729) | `open` |
+| [kyverno/kyverno](https://github.com/kyverno/kyverno) | [fix(cli): load CRDs before resources so cluster-scoped custom kinds keep no namespace](https://github.com/kyverno/kyverno/pull/17728) | `open` |
 <!-- PRS:END -->
 
 </details>
