@@ -98,12 +98,12 @@
 <!-- PRS:START -->
 | Repository | Pull request | Status |
 |---|---|---|
-| [pymc-devs/pytensor](https://github.com/pymc-devs/pytensor) | [Don't warn about read-only constants in the PyTorch backend](https://github.com/pymc-devs/pytensor/pull/2433) | `open` |
-| [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python) | [fix: accept must_understand=false extra fields in v3 group metadata](https://github.com/zarr-developers/zarr-python/pull/4391) | `open` |
-| [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) | [fix(storage): Apply timeout to gRPC storage calls](https://github.com/jaegertracing/jaeger/pull/9638) | `open` |
-| [goharbor/harbor](https://github.com/goharbor/harbor) | [fix(jobservice): unschedule only the policy, not every policy with its score](https://github.com/goharbor/harbor/pull/23995) | `open` |
-| [kyverno/kyverno](https://github.com/kyverno/kyverno) | [fix(cli): only read the listed CRD files for the OpenAPI schema](https://github.com/kyverno/kyverno/pull/17729) | `open` |
-| [kyverno/kyverno](https://github.com/kyverno/kyverno) | [fix(cli): load CRDs before resources so cluster-scoped custom kinds keep no namespace](https://github.com/kyverno/kyverno/pull/17728) | `open` |
+| [pymc-devs/pymc](https://github.com/pymc-devs/pymc) | [Fix DiscreteUniform.logcdf at the lower bound](https://github.com/pymc-devs/pymc/pull/8452) | `open` |
+| [arviz-devs/arviz-stats](https://github.com/arviz-devs/arviz-stats) | [Allow hdi with prob=1](https://github.com/arviz-devs/arviz-stats/pull/460) | `open` |
+| [arviz-devs/arviz-stats](https://github.com/arviz-devs/arviz-stats) | [Fix histogram with array-like bins](https://github.com/arviz-devs/arviz-stats/pull/459) | `open` |
+| [apache/iceberg-python](https://github.com/apache/iceberg-python) | [Accept the Z designator in timestamptz strings](https://github.com/apache/iceberg-python/pull/4015) | `open` |
+| [huggingface/huggingface_hub](https://github.com/huggingface/huggingface_hub) | [Make bucket include/exclude matching case-sensitive on all platforms](https://github.com/huggingface/huggingface_hub/pull/5005) | `open` |
+| [comet-ml/opik](https://github.com/comet-ml/opik) | [[NA] [SDK] fix: keep int columns as ints in insert_from_pandas](https://github.com/comet-ml/opik/pull/8558) | `open` |
 <!-- PRS:END -->
 
 </details>
