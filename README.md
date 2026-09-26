@@ -96,12 +96,12 @@ Most of my fixes are bugs I found myself, by checking a library against a refere
 <!-- PRS:START -->
 | Repository | Pull request | Status |
 |---|---|---|
-| [pymc-devs/pymc](https://github.com/pymc-devs/pymc) | [Fix DiscreteUniform.logcdf at the lower bound](https://github.com/pymc-devs/pymc/pull/8452) | `open` |
-| [arviz-devs/arviz-stats](https://github.com/arviz-devs/arviz-stats) | [Allow hdi with prob=1](https://github.com/arviz-devs/arviz-stats/pull/460) | `open` |
-| [arviz-devs/arviz-stats](https://github.com/arviz-devs/arviz-stats) | [Fix histogram with array-like bins](https://github.com/arviz-devs/arviz-stats/pull/459) | `open` |
-| [apache/iceberg-python](https://github.com/apache/iceberg-python) | [Accept the Z designator in timestamptz strings](https://github.com/apache/iceberg-python/pull/4015) | `open` |
-| [huggingface/huggingface_hub](https://github.com/huggingface/huggingface_hub) | [Make bucket include/exclude matching case-sensitive on all platforms](https://github.com/huggingface/huggingface_hub/pull/5005) | `open` |
-| [comet-ml/opik](https://github.com/comet-ml/opik) | [[NA] [SDK] fix: keep int columns as ints in insert_from_pandas](https://github.com/comet-ml/opik/pull/8558) | `open` |
+| [comet-ml/opik](https://github.com/comet-ml/opik) | [[NA] [SDK] fix: drop four PromptInjection patterns that match normal output](https://github.com/comet-ml/opik/pull/8573) | `open` |
+| [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) | [Accept `TextContent` and `CachePoint` in `MCPSamplingModel` user prompts](https://github.com/pydantic/pydantic-ai/pull/8771) | `open` |
+| [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) | [Send `MCPSamplingModel` instructions once and include prompted output instructions](https://github.com/pydantic/pydantic-ai/pull/8770) | `open` |
+| [tobymao/sqlglot](https://github.com/tobymao/sqlglot) | [fix: keep TRY_TO_NUMBER safe when it falls back to a cast [CLAUDE]](https://github.com/tobymao/sqlglot/pull/8424) | `merged` |
+| [mlflow/mlflow](https://github.com/mlflow/mlflow) | [Fix loading `@scorer` functions whose signature contains parentheses](https://github.com/mlflow/mlflow/pull/26172) | `merged` |
+| [mlflow/mlflow](https://github.com/mlflow/mlflow) | [Fix span status description when `record_exception` is given a string](https://github.com/mlflow/mlflow/pull/26171) | `merged` |
 <!-- PRS:END -->
 
 </details>
