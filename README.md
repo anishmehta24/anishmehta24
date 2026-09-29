@@ -96,12 +96,12 @@ Most of my fixes are bugs I found myself, by checking a library against a refere
 <!-- PRS:START -->
 | Repository | Pull request | Status |
 |---|---|---|
+| [arviz-devs/arviz-stats](https://github.com/arviz-devs/arviz-stats) | [Fix half-sample window in mode](https://github.com/arviz-devs/arviz-stats/pull/467) | `open` |
+| [mlflow/mlflow](https://github.com/mlflow/mlflow) | [Fix `PromptVersion` mutating the caller's tags dict](https://github.com/mlflow/mlflow/pull/26245) | `open` |
+| [microsoft/agent-framework](https://github.com/microsoft/agent-framework) | [Python: fix(ollama): send the tool name on tool result messages](https://github.com/microsoft/agent-framework/pull/8815) | `open` |
+| [mlflow/mlflow](https://github.com/mlflow/mlflow) | [Fix `LoggedModel.to_proto` dropping `status_message`](https://github.com/mlflow/mlflow/pull/26244) | `open` |
 | [comet-ml/opik](https://github.com/comet-ml/opik) | [[NA] [SDK] fix: drop four PromptInjection patterns that match normal output](https://github.com/comet-ml/opik/pull/8573) | `open` |
 | [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) | [Accept `TextContent` and `CachePoint` in `MCPSamplingModel` user prompts](https://github.com/pydantic/pydantic-ai/pull/8771) | `open` |
-| [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) | [Send `MCPSamplingModel` instructions once and include prompted output instructions](https://github.com/pydantic/pydantic-ai/pull/8770) | `open` |
-| [tobymao/sqlglot](https://github.com/tobymao/sqlglot) | [fix: keep TRY_TO_NUMBER safe when it falls back to a cast [CLAUDE]](https://github.com/tobymao/sqlglot/pull/8424) | `merged` |
-| [mlflow/mlflow](https://github.com/mlflow/mlflow) | [Fix loading `@scorer` functions whose signature contains parentheses](https://github.com/mlflow/mlflow/pull/26172) | `merged` |
-| [mlflow/mlflow](https://github.com/mlflow/mlflow) | [Fix span status description when `record_exception` is given a string](https://github.com/mlflow/mlflow/pull/26171) | `merged` |
 <!-- PRS:END -->
 
 </details>
