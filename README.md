@@ -96,12 +96,12 @@ Most of my fixes are bugs I found myself, by checking a library against a refere
 <!-- PRS:START -->
 | Repository | Pull request | Status |
 |---|---|---|
-| [arviz-devs/arviz-stats](https://github.com/arviz-devs/arviz-stats) | [Fix half-sample window in mode](https://github.com/arviz-devs/arviz-stats/pull/467) | `open` |
-| [mlflow/mlflow](https://github.com/mlflow/mlflow) | [Fix `PromptVersion` mutating the caller's tags dict](https://github.com/mlflow/mlflow/pull/26245) | `open` |
-| [microsoft/agent-framework](https://github.com/microsoft/agent-framework) | [Python: fix(ollama): send the tool name on tool result messages](https://github.com/microsoft/agent-framework/pull/8815) | `open` |
-| [mlflow/mlflow](https://github.com/mlflow/mlflow) | [Fix `LoggedModel.to_proto` dropping `status_message`](https://github.com/mlflow/mlflow/pull/26244) | `open` |
-| [comet-ml/opik](https://github.com/comet-ml/opik) | [[NA] [SDK] fix: drop four PromptInjection patterns that match normal output](https://github.com/comet-ml/opik/pull/8573) | `open` |
-| [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) | [Accept `TextContent` and `CachePoint` in `MCPSamplingModel` user prompts](https://github.com/pydantic/pydantic-ai/pull/8771) | `open` |
+| [pymc-devs/pytensor](https://github.com/pymc-devs/pytensor) | [Add `initial` to `max` and `min`](https://github.com/pymc-devs/pytensor/pull/2444) | `open` |
+| [kubeflow/sdk](https://github.com/kubeflow/sdk) | [fix(trainer): keep git URL packages separate in LocalProcess backend](https://github.com/kubeflow/sdk/pull/808) | `open` |
+| [apache/beam](https://github.com/apache/beam) | [[Python] Fix LogElements crash on global window timestamps](https://github.com/apache/beam/pull/40332) | `open` |
+| [arviz-devs/arviz-stats](https://github.com/arviz-devs/arviz-stats) | [Fix mode with skipna and few non-NaN values](https://github.com/arviz-devs/arviz-stats/pull/468) | `merged` |
+| [huggingface/huggingface_hub](https://github.com/huggingface/huggingface_hub) | [[Dataclasses] Accept bare typing.List/Dict/Set in @strict validation](https://github.com/huggingface/huggingface_hub/pull/5032) | `merged` |
+| [microsoft/agent-framework](https://github.com/microsoft/agent-framework) | [Python: fix(anthropic): don't mutate caller metadata when mapping user to user_id](https://github.com/microsoft/agent-framework/pull/8816) | `merged` |
 <!-- PRS:END -->
 
 </details>
