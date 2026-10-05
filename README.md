@@ -96,12 +96,12 @@ Most of my fixes are bugs I found myself, by checking a library against a refere
 <!-- PRS:START -->
 | Repository | Pull request | Status |
 |---|---|---|
-| [pymc-devs/pytensor](https://github.com/pymc-devs/pytensor) | [Add `initial` to `max` and `min`](https://github.com/pymc-devs/pytensor/pull/2444) | `open` |
-| [kubeflow/sdk](https://github.com/kubeflow/sdk) | [fix(trainer): keep git URL packages separate in LocalProcess backend](https://github.com/kubeflow/sdk/pull/808) | `open` |
-| [apache/beam](https://github.com/apache/beam) | [[Python] Fix LogElements crash on global window timestamps](https://github.com/apache/beam/pull/40332) | `open` |
-| [arviz-devs/arviz-stats](https://github.com/arviz-devs/arviz-stats) | [Fix mode with skipna and few non-NaN values](https://github.com/arviz-devs/arviz-stats/pull/468) | `merged` |
-| [huggingface/huggingface_hub](https://github.com/huggingface/huggingface_hub) | [[Dataclasses] Accept bare typing.List/Dict/Set in @strict validation](https://github.com/huggingface/huggingface_hub/pull/5032) | `merged` |
-| [microsoft/agent-framework](https://github.com/microsoft/agent-framework) | [Python: fix(anthropic): don't mutate caller metadata when mapping user to user_id](https://github.com/microsoft/agent-framework/pull/8816) | `merged` |
+| [comet-ml/opik](https://github.com/comet-ml/opik) | [[issue-3411] [FE] feat: open any LLM span in the playground](https://github.com/comet-ml/opik/pull/8725) | `open` |
+| [comet-ml/opik](https://github.com/comet-ml/opik) | [[issue-3493] [BE] [FE] [SDK] feat: filter traces and threads by comments](https://github.com/comet-ml/opik/pull/8724) | `open` |
+| [openkruise/agents](https://github.com/openkruise/agents) | [fix(sandbox-manager): read volume owner through Infra in GetOwnerOfVolume](https://github.com/openkruise/agents/pull/1025) | `open` |
+| [comet-ml/opik](https://github.com/comet-ml/opik) | [[issue-7773] [BE] fix: pick the cache cost calculator from the usage shape](https://github.com/comet-ml/opik/pull/8723) | `open` |
+| [javapathfinder/jpf-core](https://github.com/javapathfinder/jpf-core) | [Fix URLClassLoader tests on Windows](https://github.com/javapathfinder/jpf-core/pull/644) | `open` |
+| [microsoft/agent-framework](https://github.com/microsoft/agent-framework) | [Python: fix(core): serialize Pydantic tool results in JSON mode](https://github.com/microsoft/agent-framework/pull/9036) | `open` |
 <!-- PRS:END -->
 
 </details>
