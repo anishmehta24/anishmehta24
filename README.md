@@ -96,12 +96,12 @@ Most of my fixes are bugs I found myself, by checking a library against a refere
 <!-- PRS:START -->
 | Repository | Pull request | Status |
 |---|---|---|
+| [galaxy-io/filament](https://github.com/galaxy-io/filament) | [fix(connectors): keep integer key shard boundaries from overflowing](https://github.com/galaxy-io/filament/pull/493) | `open` |
+| [javapathfinder/jpf-core](https://github.com/javapathfinder/jpf-core) | [Throw out-of-range String indices in the program instead of failing JPF](https://github.com/javapathfinder/jpf-core/pull/646) | `open` |
+| [karmada-io/karmada](https://github.com/karmada-io/karmada) | [Treat a partitioned StatefulSet rollout as healthy once the pods above the partition are updated](https://github.com/karmada-io/karmada/pull/7922) | `open` |
+| [javapathfinder/jpf-core](https://github.com/javapathfinder/jpf-core) | [Store VM-created strings as Latin-1 or UTF-16 instead of the platform charset](https://github.com/javapathfinder/jpf-core/pull/645) | `open` |
+| [openkruise/agents](https://github.com/openkruise/agents) | [fix(e2b): revoke cached api keys when the key-store secret is deleted](https://github.com/openkruise/agents/pull/1027) | `open` |
 | [comet-ml/opik](https://github.com/comet-ml/opik) | [[issue-3411] [FE] feat: open any LLM span in the playground](https://github.com/comet-ml/opik/pull/8725) | `open` |
-| [comet-ml/opik](https://github.com/comet-ml/opik) | [[issue-3493] [BE] [FE] [SDK] feat: filter traces and threads by comments](https://github.com/comet-ml/opik/pull/8724) | `open` |
-| [openkruise/agents](https://github.com/openkruise/agents) | [fix(sandbox-manager): read volume owner through Infra in GetOwnerOfVolume](https://github.com/openkruise/agents/pull/1025) | `open` |
-| [comet-ml/opik](https://github.com/comet-ml/opik) | [[issue-7773] [BE] fix: pick the cache cost calculator from the usage shape](https://github.com/comet-ml/opik/pull/8723) | `open` |
-| [javapathfinder/jpf-core](https://github.com/javapathfinder/jpf-core) | [Fix URLClassLoader tests on Windows](https://github.com/javapathfinder/jpf-core/pull/644) | `open` |
-| [microsoft/agent-framework](https://github.com/microsoft/agent-framework) | [Python: fix(core): serialize Pydantic tool results in JSON mode](https://github.com/microsoft/agent-framework/pull/9036) | `open` |
 <!-- PRS:END -->
 
 </details>
