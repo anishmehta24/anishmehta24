@@ -96,12 +96,12 @@ Most of my fixes are bugs I found myself, by checking a library against a refere
 <!-- PRS:START -->
 | Repository | Pull request | Status |
 |---|---|---|
-| [galaxy-io/filament](https://github.com/galaxy-io/filament) | [fix(connectors): keep integer key shard boundaries from overflowing](https://github.com/galaxy-io/filament/pull/493) | `open` |
-| [javapathfinder/jpf-core](https://github.com/javapathfinder/jpf-core) | [Throw out-of-range String indices in the program instead of failing JPF](https://github.com/javapathfinder/jpf-core/pull/646) | `open` |
-| [karmada-io/karmada](https://github.com/karmada-io/karmada) | [Treat a partitioned StatefulSet rollout as healthy once the pods above the partition are updated](https://github.com/karmada-io/karmada/pull/7922) | `open` |
-| [javapathfinder/jpf-core](https://github.com/javapathfinder/jpf-core) | [Store VM-created strings as Latin-1 or UTF-16 instead of the platform charset](https://github.com/javapathfinder/jpf-core/pull/645) | `open` |
-| [openkruise/agents](https://github.com/openkruise/agents) | [fix(e2b): revoke cached api keys when the key-store secret is deleted](https://github.com/openkruise/agents/pull/1027) | `open` |
-| [comet-ml/opik](https://github.com/comet-ml/opik) | [[issue-3411] [FE] feat: open any LLM span in the playground](https://github.com/comet-ml/opik/pull/8725) | `open` |
+| [galaxy-io/filament](https://github.com/galaxy-io/filament) | [fix(connectors): decode MySQL enum, set and bit values from the binlog](https://github.com/galaxy-io/filament/pull/522) | `open` |
+| [galaxy-io/filament](https://github.com/galaxy-io/filament) | [fix(connectors): read Postgres dates with years past 9999](https://github.com/galaxy-io/filament/pull/520) | `open` |
+| [NVIDIA/NeMo-Agent-Toolkit](https://github.com/NVIDIA/NeMo-Agent-Toolkit) | [fix(crewai): pair profiler end events with their start events](https://github.com/NVIDIA/NeMo-Agent-Toolkit/pull/2307) | `open` |
+| [NVIDIA/NeMo-Agent-Toolkit](https://github.com/NVIDIA/NeMo-Agent-Toolkit) | [fix(eval): ignore items without steps when computing total runtime](https://github.com/NVIDIA/NeMo-Agent-Toolkit/pull/2305) | `open` |
+| [NVIDIA/NeMo-Agent-Toolkit](https://github.com/NVIDIA/NeMo-Agent-Toolkit) | [fix(opentelemetry): pass resource_attributes to the Langfuse, LangSmith and Patronus exporters](https://github.com/NVIDIA/NeMo-Agent-Toolkit/pull/2303) | `open` |
+| [NVIDIA/NeMo-Agent-Toolkit](https://github.com/NVIDIA/NeMo-Agent-Toolkit) | [fix(data-flywheel): pass the Elasticsearch password as a plain string](https://github.com/NVIDIA/NeMo-Agent-Toolkit/pull/2301) | `open` |
 <!-- PRS:END -->
 
 </details>
