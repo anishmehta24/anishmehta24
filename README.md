@@ -96,12 +96,12 @@ Most of my fixes are bugs I found myself, by checking a library against a refere
 <!-- PRS:START -->
 | Repository | Pull request | Status |
 |---|---|---|
+| [openkruise/agents](https://github.com/openkruise/agents) | [fix(sandbox): drop stale sandbox_info series when node or pool changes](https://github.com/openkruise/agents/pull/1050) | `open` |
+| [openkruise/agents](https://github.com/openkruise/agents) | [fix(sandboxclaim): run TTL cleanup after the SandboxSet is deleted](https://github.com/openkruise/agents/pull/1049) | `open` |
 | [openkruise/agents](https://github.com/openkruise/agents) | [fix(poolautoscaler): retry a cron scale-up blocked by ScalingLimited](https://github.com/openkruise/agents/pull/1042) | `open` |
 | [openkruise/rollouts](https://github.com/openkruise/rollouts) | [fix(batchrelease): don't dereference a nil status for unsupported workloads](https://github.com/openkruise/rollouts/pull/354) | `open` |
 | [arviz-devs/arviz-stats](https://github.com/arviz-devs/arviz-stats) | [Support multidimensional observations in metrics and loo_metrics](https://github.com/arviz-devs/arviz-stats/pull/483) | `open` |
 | [arviz-devs/arviz-stats](https://github.com/arviz-devs/arviz-stats) | [Keep input shape in thin when chain_axis is None](https://github.com/arviz-devs/arviz-stats/pull/482) | `open` |
-| [apache/beam](https://github.com/apache/beam) | [Let SortAndBatchElements batches reach max_batch_weight](https://github.com/apache/beam/pull/40462) | `open` |
-| [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) | [fix(adaptive): Refresh strategies on the leader](https://github.com/jaegertracing/jaeger/pull/9792) | `open` |
 <!-- PRS:END -->
 
 </details>
