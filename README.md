@@ -96,12 +96,12 @@ Most of my fixes are bugs I found myself, by checking a library against a refere
 <!-- PRS:START -->
 | Repository | Pull request | Status |
 |---|---|---|
-| [openkruise/agents](https://github.com/openkruise/agents) | [fix(sandbox): drop stale sandbox_info series when node or pool changes](https://github.com/openkruise/agents/pull/1050) | `open` |
-| [openkruise/agents](https://github.com/openkruise/agents) | [fix(sandboxclaim): run TTL cleanup after the SandboxSet is deleted](https://github.com/openkruise/agents/pull/1049) | `open` |
-| [openkruise/agents](https://github.com/openkruise/agents) | [fix(poolautoscaler): retry a cron scale-up blocked by ScalingLimited](https://github.com/openkruise/agents/pull/1042) | `open` |
-| [openkruise/rollouts](https://github.com/openkruise/rollouts) | [fix(batchrelease): don't dereference a nil status for unsupported workloads](https://github.com/openkruise/rollouts/pull/354) | `open` |
-| [arviz-devs/arviz-stats](https://github.com/arviz-devs/arviz-stats) | [Support multidimensional observations in metrics and loo_metrics](https://github.com/arviz-devs/arviz-stats/pull/483) | `open` |
-| [arviz-devs/arviz-stats](https://github.com/arviz-devs/arviz-stats) | [Keep input shape in thin when chain_axis is None](https://github.com/arviz-devs/arviz-stats/pull/482) | `open` |
+| [apache/beam](https://github.com/apache/beam) | [[Python] Keep count/size labels in DataFrame agg with a list](https://github.com/apache/beam/pull/40506) | `open` |
+| [apache/beam](https://github.com/apache/beam) | [[Python] Fix DataFrame Series.value_counts with bins](https://github.com/apache/beam/pull/40505) | `open` |
+| [tobymao/sqlglot](https://github.com/tobymao/sqlglot) | [fix(optimizer): keep the alias outside of COALESCE when unnesting a COUNT subquery [CLAUDE]](https://github.com/tobymao/sqlglot/pull/8589) | `open` |
+| [arviz-devs/arviz-plots](https://github.com/arviz-devs/arviz-plots) | [Use the number of draws for the plot_autocorr confidence band](https://github.com/arviz-devs/arviz-plots/pull/586) | `open` |
+| [arviz-devs/arviz-plots](https://github.com/arviz-devs/arviz-plots) | [Draw bokeh and plotly hist bars on top of bottom, as matplotlib does](https://github.com/arviz-devs/arviz-plots/pull/585) | `open` |
+| [arviz-devs/arviz-plots](https://github.com/arviz-devs/arviz-plots) | [Apply width and height ratios to the right plot in bokeh grids](https://github.com/arviz-devs/arviz-plots/pull/584) | `open` |
 <!-- PRS:END -->
 
 </details>
