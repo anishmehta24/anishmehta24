@@ -96,12 +96,12 @@ Most of my fixes are bugs I found myself, by checking a library against a refere
 <!-- PRS:START -->
 | Repository | Pull request | Status |
 |---|---|---|
-| [apache/beam](https://github.com/apache/beam) | [[Python] Keep count/size labels in DataFrame agg with a list](https://github.com/apache/beam/pull/40506) | `open` |
+| [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) | [fix(validator): keep operand types of br_table after unreachable](https://github.com/WasmEdge/WasmEdge/pull/5428) | `open` |
+| [goharbor/harbor-cli](https://github.com/goharbor/harbor-cli) | [fix(utils): reject storage limits that overflow int64](https://github.com/goharbor/harbor-cli/pull/1116) | `open` |
+| [goharbor/harbor-cli](https://github.com/goharbor/harbor-cli) | [fix(login): compare the stored password after decrypting it](https://github.com/goharbor/harbor-cli/pull/1115) | `open` |
+| [goharbor/harbor-cli](https://github.com/goharbor/harbor-cli) | [fix(api): encode nested repository names in API paths](https://github.com/goharbor/harbor-cli/pull/1114) | `open` |
+| [apache/beam](https://github.com/apache/beam) | [[Python] Keep count/size labels in DataFrame agg with a list](https://github.com/apache/beam/pull/40506) | `merged` |
 | [apache/beam](https://github.com/apache/beam) | [[Python] Fix DataFrame Series.value_counts with bins](https://github.com/apache/beam/pull/40505) | `open` |
-| [tobymao/sqlglot](https://github.com/tobymao/sqlglot) | [fix(optimizer): keep the alias outside of COALESCE when unnesting a COUNT subquery [CLAUDE]](https://github.com/tobymao/sqlglot/pull/8589) | `open` |
-| [arviz-devs/arviz-plots](https://github.com/arviz-devs/arviz-plots) | [Use the number of draws for the plot_autocorr confidence band](https://github.com/arviz-devs/arviz-plots/pull/586) | `open` |
-| [arviz-devs/arviz-plots](https://github.com/arviz-devs/arviz-plots) | [Draw bokeh and plotly hist bars on top of bottom, as matplotlib does](https://github.com/arviz-devs/arviz-plots/pull/585) | `open` |
-| [arviz-devs/arviz-plots](https://github.com/arviz-devs/arviz-plots) | [Apply width and height ratios to the right plot in bokeh grids](https://github.com/arviz-devs/arviz-plots/pull/584) | `open` |
 <!-- PRS:END -->
 
 </details>
