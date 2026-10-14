@@ -101,7 +101,7 @@ Most of my fixes are bugs I found myself, by checking a library against a refere
 | [goharbor/harbor-cli](https://github.com/goharbor/harbor-cli) | [fix(login): compare the stored password after decrypting it](https://github.com/goharbor/harbor-cli/pull/1115) | `open` |
 | [goharbor/harbor-cli](https://github.com/goharbor/harbor-cli) | [fix(api): encode nested repository names in API paths](https://github.com/goharbor/harbor-cli/pull/1114) | `open` |
 | [apache/beam](https://github.com/apache/beam) | [[Python] Keep count/size labels in DataFrame agg with a list](https://github.com/apache/beam/pull/40506) | `merged` |
-| [apache/beam](https://github.com/apache/beam) | [[Python] Fix DataFrame Series.value_counts with bins](https://github.com/apache/beam/pull/40505) | `open` |
+| [apache/beam](https://github.com/apache/beam) | [[Python] Fix DataFrame Series.value_counts with bins](https://github.com/apache/beam/pull/40505) | `merged` |
 <!-- PRS:END -->
 
 </details>
