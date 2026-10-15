@@ -96,12 +96,12 @@ Most of my fixes are bugs I found myself, by checking a library against a refere
 <!-- PRS:START -->
 | Repository | Pull request | Status |
 |---|---|---|
-| [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) | [fix(validator): keep operand types of br_table after unreachable](https://github.com/WasmEdge/WasmEdge/pull/5428) | `open` |
-| [goharbor/harbor-cli](https://github.com/goharbor/harbor-cli) | [fix(utils): reject storage limits that overflow int64](https://github.com/goharbor/harbor-cli/pull/1116) | `open` |
-| [goharbor/harbor-cli](https://github.com/goharbor/harbor-cli) | [fix(login): compare the stored password after decrypting it](https://github.com/goharbor/harbor-cli/pull/1115) | `open` |
-| [goharbor/harbor-cli](https://github.com/goharbor/harbor-cli) | [fix(api): encode nested repository names in API paths](https://github.com/goharbor/harbor-cli/pull/1114) | `open` |
-| [apache/beam](https://github.com/apache/beam) | [[Python] Keep count/size labels in DataFrame agg with a list](https://github.com/apache/beam/pull/40506) | `merged` |
-| [apache/beam](https://github.com/apache/beam) | [[Python] Fix DataFrame Series.value_counts with bins](https://github.com/apache/beam/pull/40505) | `merged` |
+| [mlflow/mlflow](https://github.com/mlflow/mlflow) | [Don't modify the caller's records in `EvaluationDataset.merge_records`](https://github.com/mlflow/mlflow/pull/26730) | `merged` |
+| [mlflow/mlflow](https://github.com/mlflow/mlflow) | [Handle `None` default for datetime `ParamSpec` in `to_dict`](https://github.com/mlflow/mlflow/pull/26729) | `merged` |
+| [kubeflow/hub](https://github.com/kubeflow/hub) | [fix(python): use localhost/<repo> as the auth reference for localhost images](https://github.com/kubeflow/hub/pull/3349) | `open` |
+| [arviz-devs/arviz-stats](https://github.com/arviz-devs/arviz-stats) | [Fix compute_ranks on constant integer data and over several axes](https://github.com/arviz-devs/arviz-stats/pull/495) | `open` |
+| [apache/beam](https://github.com/apache/beam) | [[Python] Keep the Series name in DataFrame Series.agg with a list](https://github.com/apache/beam/pull/40573) | `merged` |
+| [arviz-devs/arviz-stats](https://github.com/arviz-devs/arviz-stats) | [Fix bfmi with non-default chain_axis and draw_axis](https://github.com/arviz-devs/arviz-stats/pull/494) | `open` |
 <!-- PRS:END -->
 
 </details>
