@@ -96,12 +96,12 @@ Most of my fixes are bugs I found myself, by checking a library against a refere
 <!-- PRS:START -->
 | Repository | Pull request | Status |
 |---|---|---|
-| [mlflow/mlflow](https://github.com/mlflow/mlflow) | [Don't modify the caller's records in `EvaluationDataset.merge_records`](https://github.com/mlflow/mlflow/pull/26730) | `merged` |
-| [mlflow/mlflow](https://github.com/mlflow/mlflow) | [Handle `None` default for datetime `ParamSpec` in `to_dict`](https://github.com/mlflow/mlflow/pull/26729) | `merged` |
-| [kubeflow/hub](https://github.com/kubeflow/hub) | [fix(python): use localhost/<repo> as the auth reference for localhost images](https://github.com/kubeflow/hub/pull/3349) | `open` |
-| [arviz-devs/arviz-stats](https://github.com/arviz-devs/arviz-stats) | [Fix compute_ranks on constant integer data and over several axes](https://github.com/arviz-devs/arviz-stats/pull/495) | `open` |
-| [apache/beam](https://github.com/apache/beam) | [[Python] Keep the Series name in DataFrame Series.agg with a list](https://github.com/apache/beam/pull/40573) | `merged` |
-| [arviz-devs/arviz-stats](https://github.com/arviz-devs/arviz-stats) | [Fix bfmi with non-default chain_axis and draw_axis](https://github.com/arviz-devs/arviz-stats/pull/494) | `open` |
+| [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit) | [fix(agent-discovery): match nested config files on Windows](https://github.com/microsoft/agent-governance-toolkit/pull/4325) | `open` |
+| [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit) | [fix(agent-discovery): save scan risk tags and reconcile statuses](https://github.com/microsoft/agent-governance-toolkit/pull/4324) | `open` |
+| [microsoft/kiota-python](https://github.com/microsoft/kiota-python) | [fix(serialization-text): write zero int, float and timedelta values](https://github.com/microsoft/kiota-python/pull/804) | `merged` |
+| [microsoft/kiota-python](https://github.com/microsoft/kiota-python) | [fix(serialization-text): parse "none" as the None_ enum member](https://github.com/microsoft/kiota-python/pull/803) | `merged` |
+| [microsoft/FLAML](https://github.com/microsoft/FLAML) | [fix: keep processing the search space after a list low-cost point](https://github.com/microsoft/FLAML/pull/1637) | `open` |
+| [microsoft/FLAML](https://github.com/microsoft/FLAML) | [fix: compute time_idx in steps for non-monthly panel data](https://github.com/microsoft/FLAML/pull/1636) | `open` |
 <!-- PRS:END -->
 
 </details>
