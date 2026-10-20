@@ -100,7 +100,7 @@ Most of my fixes are bugs I found myself, by checking a library against a refere
 | [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit) | [fix(agent-discovery): save scan risk tags and reconcile statuses](https://github.com/microsoft/agent-governance-toolkit/pull/4324) | `open` |
 | [microsoft/kiota-python](https://github.com/microsoft/kiota-python) | [fix(serialization-text): write zero int, float and timedelta values](https://github.com/microsoft/kiota-python/pull/804) | `merged` |
 | [microsoft/kiota-python](https://github.com/microsoft/kiota-python) | [fix(serialization-text): parse "none" as the None_ enum member](https://github.com/microsoft/kiota-python/pull/803) | `merged` |
-| [microsoft/FLAML](https://github.com/microsoft/FLAML) | [fix: keep processing the search space after a list low-cost point](https://github.com/microsoft/FLAML/pull/1637) | `open` |
+| [microsoft/FLAML](https://github.com/microsoft/FLAML) | [fix: keep processing the search space after a list low-cost point](https://github.com/microsoft/FLAML/pull/1637) | `merged` |
 | [microsoft/FLAML](https://github.com/microsoft/FLAML) | [fix: compute time_idx in steps for non-monthly panel data](https://github.com/microsoft/FLAML/pull/1636) | `open` |
 <!-- PRS:END -->
 
