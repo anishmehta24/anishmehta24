@@ -96,12 +96,12 @@ Most of my fixes are bugs I found myself, by checking a library against a refere
 <!-- PRS:START -->
 | Repository | Pull request | Status |
 |---|---|---|
+| [CGAL/cgal](https://github.com/CGAL/cgal) | [Surface_mesh_decomposition: remove the unused Candidate::index](https://github.com/CGAL/cgal/pull/9792) | `open` |
+| [CGAL/cgal](https://github.com/CGAL/cgal) | [Arrangement_on_surface_2: value-initialize the data of _Curve_data_ex](https://github.com/CGAL/cgal/pull/9791) | `open` |
+| [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) | [fix(executor): return -1 when table.grow cannot allocate](https://github.com/WasmEdge/WasmEdge/pull/5498) | `open` |
 | [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit) | [fix(agent-discovery): match nested config files on Windows](https://github.com/microsoft/agent-governance-toolkit/pull/4325) | `open` |
 | [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit) | [fix(agent-discovery): save scan risk tags and reconcile statuses](https://github.com/microsoft/agent-governance-toolkit/pull/4324) | `open` |
 | [microsoft/kiota-python](https://github.com/microsoft/kiota-python) | [fix(serialization-text): write zero int, float and timedelta values](https://github.com/microsoft/kiota-python/pull/804) | `merged` |
-| [microsoft/kiota-python](https://github.com/microsoft/kiota-python) | [fix(serialization-text): parse "none" as the None_ enum member](https://github.com/microsoft/kiota-python/pull/803) | `merged` |
-| [microsoft/FLAML](https://github.com/microsoft/FLAML) | [fix: keep processing the search space after a list low-cost point](https://github.com/microsoft/FLAML/pull/1637) | `merged` |
-| [microsoft/FLAML](https://github.com/microsoft/FLAML) | [fix: compute time_idx in steps for non-monthly panel data](https://github.com/microsoft/FLAML/pull/1636) | `open` |
 <!-- PRS:END -->
 
 </details>
