@@ -96,7 +96,7 @@ Most of my fixes are bugs I found myself, by checking a library against a refere
 <!-- PRS:START -->
 | Repository | Pull request | Status |
 |---|---|---|
-| [CGAL/cgal](https://github.com/CGAL/cgal) | [Surface_mesh_decomposition: remove the unused Candidate::index](https://github.com/CGAL/cgal/pull/9792) | `open` |
+| [CGAL/cgal](https://github.com/CGAL/cgal) | [Surface_mesh_decomposition: remove the unused Candidate::index](https://github.com/CGAL/cgal/pull/9792) | `merged` |
 | [CGAL/cgal](https://github.com/CGAL/cgal) | [Arrangement_on_surface_2: value-initialize the data of _Curve_data_ex](https://github.com/CGAL/cgal/pull/9791) | `open` |
 | [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) | [fix(executor): return -1 when table.grow cannot allocate](https://github.com/WasmEdge/WasmEdge/pull/5498) | `open` |
 | [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit) | [fix(agent-discovery): match nested config files on Windows](https://github.com/microsoft/agent-governance-toolkit/pull/4325) | `open` |
