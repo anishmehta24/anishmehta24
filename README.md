@@ -96,12 +96,12 @@ Most of my fixes are bugs I found myself, by checking a library against a refere
 <!-- PRS:START -->
 | Repository | Pull request | Status |
 |---|---|---|
-| [CGAL/cgal](https://github.com/CGAL/cgal) | [Surface_mesh_decomposition: remove the unused Candidate::index](https://github.com/CGAL/cgal/pull/9792) | `merged` |
-| [CGAL/cgal](https://github.com/CGAL/cgal) | [Arrangement_on_surface_2: value-initialize the data of _Curve_data_ex](https://github.com/CGAL/cgal/pull/9791) | `open` |
-| [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) | [fix(executor): return -1 when table.grow cannot allocate](https://github.com/WasmEdge/WasmEdge/pull/5498) | `open` |
-| [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit) | [fix(agent-discovery): match nested config files on Windows](https://github.com/microsoft/agent-governance-toolkit/pull/4325) | `open` |
-| [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit) | [fix(agent-discovery): save scan risk tags and reconcile statuses](https://github.com/microsoft/agent-governance-toolkit/pull/4324) | `open` |
-| [microsoft/kiota-python](https://github.com/microsoft/kiota-python) | [fix(serialization-text): write zero int, float and timedelta values](https://github.com/microsoft/kiota-python/pull/804) | `merged` |
+| [keras-team/keras](https://github.com/keras-team/keras) | [Accept list and tuple repeats in the JAX repeat op](https://github.com/keras-team/keras/pull/24105) | `open` |
+| [aws-powertools/powertools-lambda-python](https://github.com/aws-powertools/powertools-lambda-python) | [fix(data_classes): return None from TransferFamilyAuthorizer.password when the event has none](https://github.com/aws-powertools/powertools-lambda-python/pull/8715) | `open` |
+| [aws-powertools/powertools-lambda-python](https://github.com/aws-powertools/powertools-lambda-python) | [fix(data_classes): return None for the SQS attribute value an attribute does not carry](https://github.com/aws-powertools/powertools-lambda-python/pull/8713) | `open` |
+| [aws-powertools/powertools-lambda-python](https://github.com/aws-powertools/powertools-lambda-python) | [fix(event_handler): add Vary: Accept-Encoding to responses of compressed routes](https://github.com/aws-powertools/powertools-lambda-python/pull/8711) | `open` |
+| [aws-powertools/powertools-lambda-python](https://github.com/aws-powertools/powertools-lambda-python) | [fix(event_handler): leave SameSite out of cookies in DEFAULT_MODE](https://github.com/aws-powertools/powertools-lambda-python/pull/8709) | `open` |
+| [aws-powertools/powertools-lambda-python](https://github.com/aws-powertools/powertools-lambda-python) | [fix(feature_flags): match days of week regardless of locale](https://github.com/aws-powertools/powertools-lambda-python/pull/8707) | `open` |
 <!-- PRS:END -->
 
 </details>
