@@ -96,7 +96,7 @@ Most of my fixes are bugs I found myself, by checking a library against a refere
 <!-- PRS:START -->
 | Repository | Pull request | Status |
 |---|---|---|
-| [NVIDIA/NeMo-Agent-Toolkit](https://github.com/NVIDIA/NeMo-Agent-Toolkit) | [fix(phoenix): read step-level tool metadata and per-call tool timings in the ATIF exporter](https://github.com/NVIDIA/NeMo-Agent-Toolkit/pull/2533) | `open` |
+| [NVIDIA/NeMo-Agent-Toolkit](https://github.com/NVIDIA/NeMo-Agent-Toolkit) | [fix(phoenix): read step-level tool metadata and per-call tool timings in the ATIF exporter](https://github.com/NVIDIA/NeMo-Agent-Toolkit/pull/2533) | `merged` |
 | [keras-team/keras](https://github.com/keras-team/keras) | [Accept list and tuple repeats in the JAX repeat op](https://github.com/keras-team/keras/pull/24105) | `open` |
 | [aws-powertools/powertools-lambda-python](https://github.com/aws-powertools/powertools-lambda-python) | [fix(data_classes): return None from TransferFamilyAuthorizer.password when the event has none](https://github.com/aws-powertools/powertools-lambda-python/pull/8715) | `open` |
 | [aws-powertools/powertools-lambda-python](https://github.com/aws-powertools/powertools-lambda-python) | [fix(data_classes): return None for the SQS attribute value an attribute does not carry](https://github.com/aws-powertools/powertools-lambda-python/pull/8713) | `open` |
