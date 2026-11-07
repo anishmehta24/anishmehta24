@@ -96,12 +96,12 @@ Most of my fixes are bugs I found myself, by checking a library against a refere
 <!-- PRS:START -->
 | Repository | Pull request | Status |
 |---|---|---|
+| [openkruise/kruise](https://github.com/openkruise/kruise) | [fix(resourcedistribution): apply metadata changes to distributed resources](https://github.com/openkruise/kruise/pull/2653) | `open` |
+| [goharbor/harbor-cli](https://github.com/goharbor/harbor-cli) | [fix(webhook): send the project as a name in webhook requests](https://github.com/goharbor/harbor-cli/pull/1141) | `open` |
 | [arviz-devs/arviz-plots](https://github.com/arviz-devs/arviz-plots) | [Use sample_dims in plot_dist rope and plot_psense_quantities](https://github.com/arviz-devs/arviz-plots/pull/601) | `open` |
 | [arviz-devs/arviz-stats](https://github.com/arviz-devs/arviz-stats) | [Use sample_dims when extracting in weight_predictions](https://github.com/arviz-devs/arviz-stats/pull/548) | `open` |
 | [elastic/connectors](https://github.com/elastic/connectors) | [fix(dropbox): prefix the account id on private and team root folders](https://github.com/elastic/connectors/pull/4917) | `open` |
 | [NVIDIA/NeMo-Agent-Toolkit](https://github.com/NVIDIA/NeMo-Agent-Toolkit) | [fix(phoenix): read step-level tool metadata and per-call tool timings in the ATIF exporter](https://github.com/NVIDIA/NeMo-Agent-Toolkit/pull/2533) | `merged` |
-| [keras-team/keras](https://github.com/keras-team/keras) | [Accept list and tuple repeats in the JAX repeat op](https://github.com/keras-team/keras/pull/24105) | `open` |
-| [aws-powertools/powertools-lambda-python](https://github.com/aws-powertools/powertools-lambda-python) | [fix(data_classes): return None from TransferFamilyAuthorizer.password when the event has none](https://github.com/aws-powertools/powertools-lambda-python/pull/8715) | `merged` |
 <!-- PRS:END -->
 
 </details>
