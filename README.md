@@ -96,12 +96,12 @@ Most of my fixes are bugs I found myself, by checking a library against a refere
 <!-- PRS:START -->
 | Repository | Pull request | Status |
 |---|---|---|
+| [arviz-devs/arviz-base](https://github.com/arviz-devs/arviz-base) | [Stack each variable on its own in dataset_to_dataarray](https://github.com/arviz-devs/arviz-base/pull/238) | `open` |
+| [tobymao/sqlglot](https://github.com/tobymao/sqlglot) | [fix(mysql, spark): return an empty string for a negative LEFT/RIGHT length in DuckDB [CLAUDE]](https://github.com/tobymao/sqlglot/pull/8967) | `open` |
+| [unionai-oss/pandera](https://github.com/unionai-oss/pandera) | [fix(pandas): count missing values as failures in checks on nullable dtypes](https://github.com/unionai-oss/pandera/pull/2655) | `open` |
+| [apache/beam](https://github.com/apache/beam) | [[Python] Fix the DataFrame cov and corr diagonals and corr of a constant column](https://github.com/apache/beam/pull/41140) | `open` |
+| [tobymao/sqlglot](https://github.com/tobymao/sqlglot) | [fix(spark): handle a 0 start and a negative length in SUBSTRING for DuckDB [CLAUDE]](https://github.com/tobymao/sqlglot/pull/8966) | `merged` |
 | [openkruise/kruise](https://github.com/openkruise/kruise) | [fix(resourcedistribution): apply metadata changes to distributed resources](https://github.com/openkruise/kruise/pull/2653) | `open` |
-| [goharbor/harbor-cli](https://github.com/goharbor/harbor-cli) | [fix(webhook): send the project as a name in webhook requests](https://github.com/goharbor/harbor-cli/pull/1141) | `open` |
-| [arviz-devs/arviz-plots](https://github.com/arviz-devs/arviz-plots) | [Use sample_dims in plot_dist rope and plot_psense_quantities](https://github.com/arviz-devs/arviz-plots/pull/601) | `open` |
-| [arviz-devs/arviz-stats](https://github.com/arviz-devs/arviz-stats) | [Use sample_dims when extracting in weight_predictions](https://github.com/arviz-devs/arviz-stats/pull/548) | `open` |
-| [elastic/connectors](https://github.com/elastic/connectors) | [fix(dropbox): prefix the account id on private and team root folders](https://github.com/elastic/connectors/pull/4917) | `open` |
-| [NVIDIA/NeMo-Agent-Toolkit](https://github.com/NVIDIA/NeMo-Agent-Toolkit) | [fix(phoenix): read step-level tool metadata and per-call tool timings in the ATIF exporter](https://github.com/NVIDIA/NeMo-Agent-Toolkit/pull/2533) | `merged` |
 <!-- PRS:END -->
 
 </details>
