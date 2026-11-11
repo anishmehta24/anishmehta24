@@ -96,12 +96,12 @@ Most of my fixes are bugs I found myself, by checking a library against a refere
 <!-- PRS:START -->
 | Repository | Pull request | Status |
 |---|---|---|
+| [GoogleCloudPlatform/cloud-sql-proxy](https://github.com/GoogleCloudPlatform/cloud-sql-proxy) | [fix: let an instance's sql-data setting override the --sql-data flag](https://github.com/GoogleCloudPlatform/cloud-sql-proxy/pull/2719) | `open` |
+| [aws-powertools/powertools-lambda-python](https://github.com/aws-powertools/powertools-lambda-python) | [fix(metrics): skip non-finite metric values with a warning](https://github.com/aws-powertools/powertools-lambda-python/pull/8797) | `open` |
+| [comet-ml/opik](https://github.com/comet-ml/opik) | [[NA] [SDK] fix: log token usage from usage_metadata in the TS LangChain handler](https://github.com/comet-ml/opik/pull/9526) | `open` |
 | [arviz-devs/arviz-base](https://github.com/arviz-devs/arviz-base) | [Stack each variable on its own in dataset_to_dataarray](https://github.com/arviz-devs/arviz-base/pull/238) | `open` |
 | [tobymao/sqlglot](https://github.com/tobymao/sqlglot) | [fix(mysql, spark): return an empty string for a negative LEFT/RIGHT length in DuckDB [CLAUDE]](https://github.com/tobymao/sqlglot/pull/8967) | `open` |
 | [unionai-oss/pandera](https://github.com/unionai-oss/pandera) | [fix(pandas): count missing values as failures in checks on nullable dtypes](https://github.com/unionai-oss/pandera/pull/2655) | `open` |
-| [apache/beam](https://github.com/apache/beam) | [[Python] Fix the DataFrame cov and corr diagonals and corr of a constant column](https://github.com/apache/beam/pull/41140) | `open` |
-| [tobymao/sqlglot](https://github.com/tobymao/sqlglot) | [fix(spark): handle a 0 start and a negative length in SUBSTRING for DuckDB [CLAUDE]](https://github.com/tobymao/sqlglot/pull/8966) | `merged` |
-| [openkruise/kruise](https://github.com/openkruise/kruise) | [fix(resourcedistribution): apply metadata changes to distributed resources](https://github.com/openkruise/kruise/pull/2653) | `open` |
 <!-- PRS:END -->
 
 </details>
