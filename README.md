@@ -100,7 +100,7 @@ Most of my fixes are bugs I found myself, by checking a library against a refere
 | [aws-powertools/powertools-lambda-python](https://github.com/aws-powertools/powertools-lambda-python) | [fix(metrics): skip non-finite metric values with a warning](https://github.com/aws-powertools/powertools-lambda-python/pull/8797) | `open` |
 | [comet-ml/opik](https://github.com/comet-ml/opik) | [[NA] [SDK] fix: log token usage from usage_metadata in the TS LangChain handler](https://github.com/comet-ml/opik/pull/9526) | `open` |
 | [arviz-devs/arviz-base](https://github.com/arviz-devs/arviz-base) | [Stack each variable on its own in dataset_to_dataarray](https://github.com/arviz-devs/arviz-base/pull/238) | `open` |
-| [tobymao/sqlglot](https://github.com/tobymao/sqlglot) | [fix(mysql, spark): return an empty string for a negative LEFT/RIGHT length in DuckDB [CLAUDE]](https://github.com/tobymao/sqlglot/pull/8967) | `open` |
+| [tobymao/sqlglot](https://github.com/tobymao/sqlglot) | [fix(mysql, spark): return an empty string for a negative LEFT/RIGHT length in DuckDB [CLAUDE]](https://github.com/tobymao/sqlglot/pull/8967) | `merged` |
 | [unionai-oss/pandera](https://github.com/unionai-oss/pandera) | [fix(pandas): count missing values as failures in checks on nullable dtypes](https://github.com/unionai-oss/pandera/pull/2655) | `open` |
 <!-- PRS:END -->
 
