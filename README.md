@@ -96,12 +96,12 @@ Most of my fixes are bugs I found myself, by checking a library against a refere
 <!-- PRS:START -->
 | Repository | Pull request | Status |
 |---|---|---|
-| [aws-powertools/powertools-lambda-typescript](https://github.com/aws-powertools/powertools-lambda-typescript) | [fix(metrics): skip non-finite metric values with a warning](https://github.com/aws-powertools/powertools-lambda-typescript/pull/5963) | `open` |
-| [goharbor/harbor-cli](https://github.com/goharbor/harbor-cli) | [fix(vulnerability): escape the q filter sent to Security Hub](https://github.com/goharbor/harbor-cli/pull/1148) | `open` |
-| [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) | [fix(wasi): define FIONREAD with _IOR on Windows](https://github.com/WasmEdge/WasmEdge/pull/5580) | `open` |
-| [huggingface/huggingface_hub](https://github.com/huggingface/huggingface_hub) | [[Download] Don't write the ref file in snapshot_download dry runs](https://github.com/huggingface/huggingface_hub/pull/5345) | `open` |
-| [GoogleCloudPlatform/cloud-sql-proxy](https://github.com/GoogleCloudPlatform/cloud-sql-proxy) | [fix: let an instance's sql-data setting override the --sql-data flag](https://github.com/GoogleCloudPlatform/cloud-sql-proxy/pull/2719) | `open` |
-| [aws-powertools/powertools-lambda-python](https://github.com/aws-powertools/powertools-lambda-python) | [fix(metrics): skip non-finite metric values with a warning](https://github.com/aws-powertools/powertools-lambda-python/pull/8797) | `open` |
+| [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) | [Quote attachment filenames in email_send_message](https://github.com/PrefectHQ/prefect/pull/23905) | `open` |
+| [feast-dev/feast](https://github.com/feast-dev/feast) | [fix: Keep the dataframe index out of write_to_offline_store](https://github.com/feast-dev/feast/pull/7160) | `open` |
+| [apache/libcloud](https://github.com/apache/libcloud) | [Route53: keep MX priority and SRV weight/port when updating or deleting records](https://github.com/apache/libcloud/pull/2224) | `open` |
+| [microsoft/FLAML](https://github.com/microsoft/FLAML) | [fix: compare the first lexicographic result with the incumbent in FLOW2](https://github.com/microsoft/FLAML/pull/1669) | `open` |
+| [comet-ml/opik](https://github.com/comet-ml/opik) | [[NA] [SDK] fix: drop LlamaIndex event outputs once their trace has ended](https://github.com/comet-ml/opik/pull/9556) | `open` |
+| [mlflow/mlflow](https://github.com/mlflow/mlflow) | [Accept `int` values for `float` type hints in `PythonModel` input validation](https://github.com/mlflow/mlflow/pull/27769) | `open` |
 <!-- PRS:END -->
 
 </details>
