@@ -45,6 +45,15 @@ Most of my fixes are bugs I found myself, by checking a library against a refere
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3><a href="https://github.com/anishmehta24/pcapdoctor">pcapdoctor</a></h3>
+      <p>
+        <img src="https://img.shields.io/github/v/release/anishmehta24/pcapdoctor?style=flat-square&label=release" alt="release" />
+        <img src="https://img.shields.io/github/languages/top/anishmehta24/pcapdoctor?style=flat-square" alt="language" />
+        <img src="https://img.shields.io/github/last-commit/anishmehta24/pcapdoctor?style=flat-square" alt="last commit" />
+      </p>
+      <p>Reads a packet capture and tells you what went wrong on the network, in plain English: failed DNS lookups, refused or reset connections, packet loss, TLS handshake failures, and whether a slow request was the server or the network. Hand-written pcap/pcapng, TCP/IP, DNS, TLS and X.509 parsers checked against Wireshark, Wireshark's filter language, and a GitHub Action for CI. Rust · one binary for Linux, macOS and Windows. <a href="https://github.com/anishmehta24/pcapdoctor/releases/latest">Release ↗</a></p>
+    </td>
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/anishmehta24/verse">Verse</a></h3>
       <p>
         <img src="https://img.shields.io/github/stars/anishmehta24/verse?style=flat-square&logo=github&label=stars" alt="stars" />
@@ -52,6 +61,16 @@ Most of my fixes are bugs I found myself, by checking a library against a refere
         <img src="https://img.shields.io/github/last-commit/anishmehta24/verse?style=flat-square" alt="last commit" />
       </p>
       <p>Real-time collaborative workspace: docs, code, whiteboard and audio/video in one place. Yjs CRDTs over WebSockets for conflict-free editing, WebRTC calls with Socket.IO signalling. TypeScript · React · Node.js · PostgreSQL. <a href="https://collab-docs-web.onrender.com/">Live ↗</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/anishmehta24/microbox">MicroBox</a></h3>
+      <p>
+        <img src="https://img.shields.io/github/languages/top/anishmehta24/microbox?style=flat-square" alt="language" />
+        <img src="https://img.shields.io/github/last-commit/anishmehta24/microbox?style=flat-square" alt="last commit" />
+      </p>
+      <p>A small Linux container runtime, built to learn what happens underneath Docker: namespaces, <code>pivot_root</code>, cgroups v2 resource limits, veth networking, and pulling and running OCI images. Go · Linux.</p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/anishmehta24/OSS-Contributor-engine">OSS Contributor Engine</a></h3>
@@ -72,7 +91,7 @@ Most of my fixes are bugs I found myself, by checking a library against a refere
 ## 🧰 Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,ts,java,cpp,fastapi,nodejs,express,react,nextjs,postgres,mongodb,redis,docker,azure,aws,git,linux&perline=9" alt="toolbox" />
+  <img src="https://skillicons.dev/icons?i=python,go,rust,ts,java,cpp,fastapi,nodejs,express,react,nextjs,postgres,mongodb,redis,docker,azure,aws,git,linux&perline=10" alt="toolbox" />
 </p>
 <p align="center"><sub>plus Apache Spark · Apache Beam · Polars · Dapr · Celery · pgvector · PyTest · CI/CD</sub></p>
 
