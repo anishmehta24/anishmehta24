@@ -96,12 +96,12 @@ Most of my fixes are bugs I found myself, by checking a library against a refere
 <!-- PRS:START -->
 | Repository | Pull request | Status |
 |---|---|---|
-| [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) | [Quote attachment filenames in email_send_message](https://github.com/PrefectHQ/prefect/pull/23905) | `merged` |
-| [feast-dev/feast](https://github.com/feast-dev/feast) | [fix: Keep the dataframe index out of write_to_offline_store](https://github.com/feast-dev/feast/pull/7160) | `merged` |
-| [apache/libcloud](https://github.com/apache/libcloud) | [Route53: keep MX priority and SRV weight/port when updating or deleting records](https://github.com/apache/libcloud/pull/2224) | `open` |
-| [microsoft/FLAML](https://github.com/microsoft/FLAML) | [fix: compare the first lexicographic result with the incumbent in FLOW2](https://github.com/microsoft/FLAML/pull/1669) | `open` |
-| [comet-ml/opik](https://github.com/comet-ml/opik) | [[NA] [SDK] fix: drop LlamaIndex event outputs once their trace has ended](https://github.com/comet-ml/opik/pull/9556) | `open` |
-| [mlflow/mlflow](https://github.com/mlflow/mlflow) | [Accept `int` values for `float` type hints in `PythonModel` input validation](https://github.com/mlflow/mlflow/pull/27769) | `open` |
+| [shreya0517/CampusOS](https://github.com/shreya0517/CampusOS) | [Announcements: history, edit, archive and restore for Admin](https://github.com/shreya0517/CampusOS/pull/32) | `merged` |
+| [shreya0517/CampusOS](https://github.com/shreya0517/CampusOS) | [Announcements: target departments, semesters and sections, categories, and scheduled delivery](https://github.com/shreya0517/CampusOS/pull/31) | `merged` |
+| [shreya0517/CampusOS](https://github.com/shreya0517/CampusOS) | [feat: Institutional Overview analytics for Admin](https://github.com/shreya0517/CampusOS/pull/30) | `merged` |
+| [shreya0517/CampusOS](https://github.com/shreya0517/CampusOS) | [Admin creates student sign-in accounts](https://github.com/shreya0517/CampusOS/pull/29) | `merged` |
+| [shreya0517/CampusOS](https://github.com/shreya0517/CampusOS) | [Visitor check-in and check-out, and fix the visitors page crash](https://github.com/shreya0517/CampusOS/pull/28) | `merged` |
+| [shreya0517/CampusOS](https://github.com/shreya0517/CampusOS) | [Notifications: stored in-app alerts with live delivery, bell and page](https://github.com/shreya0517/CampusOS/pull/27) | `merged` |
 <!-- PRS:END -->
 
 </details>
