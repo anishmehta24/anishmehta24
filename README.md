@@ -115,12 +115,12 @@ Most of my fixes are bugs I found myself, by checking a library against a refere
 <!-- PRS:START -->
 | Repository | Pull request | Status |
 |---|---|---|
-| [shreya0517/CampusOS](https://github.com/shreya0517/CampusOS) | [Announcements: history, edit, archive and restore for Admin](https://github.com/shreya0517/CampusOS/pull/32) | `merged` |
-| [shreya0517/CampusOS](https://github.com/shreya0517/CampusOS) | [Announcements: target departments, semesters and sections, categories, and scheduled delivery](https://github.com/shreya0517/CampusOS/pull/31) | `merged` |
-| [shreya0517/CampusOS](https://github.com/shreya0517/CampusOS) | [feat: Institutional Overview analytics for Admin](https://github.com/shreya0517/CampusOS/pull/30) | `merged` |
-| [shreya0517/CampusOS](https://github.com/shreya0517/CampusOS) | [Admin creates student sign-in accounts](https://github.com/shreya0517/CampusOS/pull/29) | `merged` |
-| [shreya0517/CampusOS](https://github.com/shreya0517/CampusOS) | [Visitor check-in and check-out, and fix the visitors page crash](https://github.com/shreya0517/CampusOS/pull/28) | `merged` |
-| [shreya0517/CampusOS](https://github.com/shreya0517/CampusOS) | [Notifications: stored in-app alerts with live delivery, bell and page](https://github.com/shreya0517/CampusOS/pull/27) | `merged` |
+| [shreya0517/CampusOS](https://github.com/shreya0517/CampusOS) | [fix: small QA findings (task reads, favicon, initials, in-app dialogs)](https://github.com/shreya0517/CampusOS/pull/48) | `merged` |
+| [shreya0517/CampusOS](https://github.com/shreya0517/CampusOS) | [fix: timetable input 500s and the staff submit form on assignments](https://github.com/shreya0517/CampusOS/pull/47) | `merged` |
+| [shreya0517/CampusOS](https://github.com/shreya0517/CampusOS) | [Roles come only from role assignments; an account without one is told so](https://github.com/shreya0517/CampusOS/pull/46) | `merged` |
+| [shreya0517/CampusOS](https://github.com/shreya0517/CampusOS) | [Timetable: check for clashes and insert under a per-college lock](https://github.com/shreya0517/CampusOS/pull/45) | `merged` |
+| [shreya0517/CampusOS](https://github.com/shreya0517/CampusOS) | [Tasks: keep the task status in step with its assignments](https://github.com/shreya0517/CampusOS/pull/44) | `merged` |
+| [shreya0517/CampusOS](https://github.com/shreya0517/CampusOS) | [400 for bad exam input, real staff hosts for visitors, teacher names only in class responses](https://github.com/shreya0517/CampusOS/pull/43) | `merged` |
 <!-- PRS:END -->
 
 </details>
