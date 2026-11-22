@@ -7,8 +7,14 @@ import urllib.request
 USER = "anishmehta24"
 START, END = "<!-- PRS:START -->", "<!-- PRS:END -->"
 
+# Owners whose repos are left out: my own, plus friends' repos where I helped out
+# (same list as anishmehta24/oss-contributions).
+EXCLUDE_OWNERS = [USER, "saquibjawedbit", "Harshkumar76", "krrishrastogi05", "shreya0517"]
+SHOW = 6
+
+query = "+".join(["is:pr", f"author:{USER}", *(f"-user:{o}" for o in EXCLUDE_OWNERS)])
 req = urllib.request.Request(
-    f"https://api.github.com/search/issues?q=is:pr+author:{USER}+-user:{USER}&sort=created&order=desc&per_page=6",
+    f"https://api.github.com/search/issues?q={query}&sort=created&order=desc&per_page=30",
     headers={"Accept": "application/vnd.github+json", "Authorization": f"Bearer {os.environ['GITHUB_TOKEN']}"},
 )
 with urllib.request.urlopen(req) as resp:
@@ -20,11 +26,13 @@ for it in items:
     if it.get("pull_request", {}).get("merged_at"):
         state = "merged"
     elif it["state"] == "closed":
-        state = "closed"
+        continue  # closed without merging
     else:
-        state = "open"
+        state = "in review"
     title = it["title"].replace("|", "&#124;")
-    lines.append(f"| [{repo}](https://github.com/{repo}) | [{title}]({it['html_url']}) | `{state}` |")
+    lines.append(f"| [{repo}](https://github.com/{repo}) | [{title}]({it['html_url']}) | <code>{state.replace(" ", "&nbsp;")}</code> |")
+    if len(lines) == SHOW:
+        break
 
 block = "\n".join(["| Repository | Pull request | Status |", "|---|---|---|", *lines])
 with open("README.md", encoding="utf-8") as f:

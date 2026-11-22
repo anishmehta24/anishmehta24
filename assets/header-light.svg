@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Anish Mehta, backend and systems engineer, open-source contributor">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f8fafc"/>
+      <stop offset="1" stop-color="#e8eefc"/>
+    </linearGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.6" fill="#dbe3ef"/>
+    </pattern>
+  </defs>
+  <rect x="1" y="1" width="1198" height="318" rx="18" fill="url(#bg)" stroke="#d0d7de" stroke-width="2"/>
+  <rect x="744" y="24" width="432" height="196" fill="url(#dots)" opacity="0.9"/>
+  <text x="64" y="84" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Consolas, 'Liberation Mono', monospace" font-size="18" fill="#0969da">~/anishmehta24</text>
+  <text x="62" y="150" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="64" font-weight="700" fill="#1f2328">Anish Mehta</text>
+  <text x="64" y="194" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="24" fill="#57606a">Backend and systems engineer · open-source contributor</text>
+  <g>
+    <path d="M760 150 H1150" stroke="#94a3b8" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <path d="M800 150 C830 150 830 92 860 92 H940 C970 92 970 150 1000 150" stroke="#0969da" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <path d="M1000 150 C1025 150 1025 206 1050 206 H1070 C1095 206 1095 150 1120 150" stroke="#8250df" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <circle cx="760" cy="150" r="7" fill="#e8eefc" stroke="#94a3b8" stroke-width="3"/>
+    <circle cx="880" cy="150" r="7" fill="#e8eefc" stroke="#94a3b8" stroke-width="3"/>
+    <circle cx="1150" cy="150" r="7" fill="#e8eefc" stroke="#94a3b8" stroke-width="3"/>
+    <circle cx="860" cy="92" r="7" fill="#e8eefc" stroke="#0969da" stroke-width="3"/>
+    <circle cx="900" cy="92" r="7" fill="#e8eefc" stroke="#0969da" stroke-width="3"/>
+    <circle cx="940" cy="92" r="7" fill="#e8eefc" stroke="#0969da" stroke-width="3"/>
+    <circle cx="1050" cy="206" r="7" fill="#e8eefc" stroke="#8250df" stroke-width="3"/>
+    <circle cx="1070" cy="206" r="7" fill="#e8eefc" stroke="#8250df" stroke-width="3"/>
+    <circle cx="1000" cy="150" r="9" fill="#0969da"/>
+    <circle cx="1120" cy="150" r="9" fill="#8250df"/>
+  </g>
+  <rect x="64" y="232" width="196" height="40" rx="20" fill="#ffffff" stroke="#d0d7de"/><text x="162.0" y="258" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" fill="#24292f"><tspan font-weight="700" fill="#0969da">150+</tspan> merged PRs</text><rect x="274" y="232" width="262" height="40" rx="20" fill="#ffffff" stroke="#d0d7de"/><text x="405.0" y="258" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" fill="#24292f"><tspan font-weight="700" fill="#0969da">30+</tspan> open-source projects</text><rect x="550" y="232" width="236" height="40" rx="20" fill="#ffffff" stroke="#d0d7de"/><text x="668.0" y="258" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" fill="#24292f"><tspan font-weight="700" fill="#0969da">SWE Intern</tspan> @ Clootrack</text><rect x="800" y="232" width="206" height="40" rx="20" fill="#ffffff" stroke="#d0d7de"/><text x="903.0" y="258" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" fill="#24292f"><tspan font-weight="700" fill="#0969da">CSE '27</tspan> · BIT Mesra</text>
+</svg>
