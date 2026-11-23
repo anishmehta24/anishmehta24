@@ -92,12 +92,12 @@ Plus Spark, Polars, DuckDB, Apache Beam, Dapr, Celery, pgvector and GitHub Actio
 <!-- PRS:START -->
 | Repository | Pull request | Status |
 |---|---|---|
+| [apache/beam](https://github.com/apache/beam) | [[Python] Make weighted ApproximateQuantiles independent of the weight scale](https://github.com/apache/beam/pull/41560) | <code>in&nbsp;review</code> |
+| [apache/beam](https://github.com/apache/beam) | [[Python] Build a valid Duration proto for negative durations](https://github.com/apache/beam/pull/41558) | <code>in&nbsp;review</code> |
 | [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) | [Quote attachment filenames in email_send_message](https://github.com/PrefectHQ/prefect/pull/23905) | <code>merged</code> |
 | [feast-dev/feast](https://github.com/feast-dev/feast) | [fix: Keep the dataframe index out of write_to_offline_store](https://github.com/feast-dev/feast/pull/7160) | <code>merged</code> |
 | [apache/libcloud](https://github.com/apache/libcloud) | [Route53: keep MX priority and SRV weight/port when updating or deleting records](https://github.com/apache/libcloud/pull/2224) | <code>in&nbsp;review</code> |
 | [microsoft/FLAML](https://github.com/microsoft/FLAML) | [fix: compare the first lexicographic result with the incumbent in FLOW2](https://github.com/microsoft/FLAML/pull/1669) | <code>in&nbsp;review</code> |
-| [comet-ml/opik](https://github.com/comet-ml/opik) | [[NA] [SDK] fix: drop LlamaIndex event outputs once their trace has ended](https://github.com/comet-ml/opik/pull/9556) | <code>in&nbsp;review</code> |
-| [mlflow/mlflow](https://github.com/mlflow/mlflow) | [Accept `int` values for `float` type hints in `PythonModel` input validation](https://github.com/mlflow/mlflow/pull/27769) | <code>in&nbsp;review</code> |
 <!-- PRS:END -->
 
 <sub>Updated daily by a GitHub Action. Pull requests to my own and friends' repos are left out.</sub>
