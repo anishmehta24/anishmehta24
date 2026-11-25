@@ -92,12 +92,12 @@ Plus Spark, Polars, DuckDB, Apache Beam, Dapr, Celery, pgvector and GitHub Actio
 <!-- PRS:START -->
 | Repository | Pull request | Status |
 |---|---|---|
+| [apache/beam](https://github.com/apache/beam) | [[Python] Fix DataFrame idxmin and idxmax on empty or all-NA partitions](https://github.com/apache/beam/pull/41663) | <code>in&nbsp;review</code> |
+| [comet-ml/opik](https://github.com/comet-ml/opik) | [[issue-9749] [SDK] fix: log the span when a TypeScript OpenAI stream fails or stops early](https://github.com/comet-ml/opik/pull/9750) | <code>in&nbsp;review</code> |
+| [CopperPilot/copper-pilot-cli](https://github.com/CopperPilot/copper-pilot-cli) | [Read Windows backslash paths in the outside-the-workspace check](https://github.com/CopperPilot/copper-pilot-cli/pull/72) | <code>in&nbsp;review</code> |
 | [apache/beam](https://github.com/apache/beam) | [[Python] Make weighted ApproximateQuantiles independent of the weight scale](https://github.com/apache/beam/pull/41560) | <code>in&nbsp;review</code> |
 | [apache/beam](https://github.com/apache/beam) | [[Python] Build a valid Duration proto for negative durations](https://github.com/apache/beam/pull/41558) | <code>merged</code> |
 | [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) | [Quote attachment filenames in email_send_message](https://github.com/PrefectHQ/prefect/pull/23905) | <code>merged</code> |
-| [feast-dev/feast](https://github.com/feast-dev/feast) | [fix: Keep the dataframe index out of write_to_offline_store](https://github.com/feast-dev/feast/pull/7160) | <code>merged</code> |
-| [apache/libcloud](https://github.com/apache/libcloud) | [Route53: keep MX priority and SRV weight/port when updating or deleting records](https://github.com/apache/libcloud/pull/2224) | <code>in&nbsp;review</code> |
-| [microsoft/FLAML](https://github.com/microsoft/FLAML) | [fix: compare the first lexicographic result with the incumbent in FLOW2](https://github.com/microsoft/FLAML/pull/1669) | <code>in&nbsp;review</code> |
 <!-- PRS:END -->
 
 <sub>Updated daily by a GitHub Action. Pull requests to my own and friends' repos are left out.</sub>
