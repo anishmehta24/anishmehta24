@@ -92,12 +92,12 @@ Plus Spark, Polars, DuckDB, Apache Beam, Dapr, Celery, pgvector and GitHub Actio
 <!-- PRS:START -->
 | Repository | Pull request | Status |
 |---|---|---|
+| [comet-ml/opik](https://github.com/comet-ml/opik) | [[issue-9861] [SDK] fix: keep parallel root runs in separate traces in the TS LangChain handler](https://github.com/comet-ml/opik/pull/9862) | <code>in&nbsp;review</code> |
+| [feast-dev/feast](https://github.com/feast-dev/feast) | [fix: Keep Map, Json and Struct values intact in DataFrame online writes](https://github.com/feast-dev/feast/pull/7251) | <code>in&nbsp;review</code> |
+| [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) | [Send plain text and HTML bodies as alternatives in email_send_message](https://github.com/PrefectHQ/prefect/pull/24114) | <code>in&nbsp;review</code> |
 | [openkruise/kruise](https://github.com/openkruise/kruise) | [fix(daemonset): count unavailable old pods against maxUnavailable](https://github.com/openkruise/kruise/pull/2678) | <code>in&nbsp;review</code> |
 | [microsoft/FLAML](https://github.com/microsoft/FLAML) | [fix: loosen percentage tolerance for negative values in lexico_best](https://github.com/microsoft/FLAML/pull/1677) | <code>in&nbsp;review</code> |
 | [microsoft/kiota-python](https://github.com/microsoft/kiota-python) | [fix(abstractions): keep the original part name in multipart bodies](https://github.com/microsoft/kiota-python/pull/918) | <code>merged</code> |
-| [NVIDIA-NeMo/Run](https://github.com/NVIDIA-NeMo/Run) | [fix(docker): parse ulimits in the documented <type>=<soft>[:<hard>] form](https://github.com/NVIDIA-NeMo/Run/pull/723) | <code>in&nbsp;review</code> |
-| [mlflow/mlflow](https://github.com/mlflow/mlflow) | [Accept object arrays of document IDs in `precision_at_k`, `recall_at_k` and `ndcg_at_k`](https://github.com/mlflow/mlflow/pull/28131) | <code>in&nbsp;review</code> |
-| [galaxy-io/filament](https://github.com/galaxy-io/filament) | [fix(cron): fire fixed-time schedules once across daylight saving changes](https://github.com/galaxy-io/filament/pull/816) | <code>in&nbsp;review</code> |
 <!-- PRS:END -->
 
 <sub>Updated daily by a GitHub Action. Pull requests to my own and friends' repos are left out.</sub>
